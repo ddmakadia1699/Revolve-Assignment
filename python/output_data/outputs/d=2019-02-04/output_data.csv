@@ -1,0 +1,48 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,P32,onions
+C1,7,3,P26,broccoli
+C1,7,3,P28,grapes
+C11,4,1,P23,cherries
+C19,6,1,P09,toilet paper
+C20,2,2,P61,red wine
+C20,2,2,P64,cigarettes
+C22,1,3,P34,raspberries
+C22,1,3,P25,peppers
+C22,1,3,P31,lemon grass
+C28,3,3,P36,salted caramel dark chocolate
+C28,3,3,P36,salted caramel dark chocolate
+C28,3,3,P36,salted caramel dark chocolate
+C32,3,3,P60,water
+C32,3,3,P59,chicken stock
+C32,3,3,P57,parmesan
+C34,3,1,P14,women's shoes
+C47,2,3,P28,grapes
+C47,2,3,P32,onions
+C47,2,3,P25,peppers
+C48,4,1,P40,irn bru
+C51,3,3,P23,cherries
+C51,3,3,P26,broccoli
+C51,3,3,P31,lemon grass
+C54,2,1,P37,gummy bears
+C71,8,2,P27,potatoes
+C71,8,2,P28,grapes
+C72,5,2,P40,irn bru
+C72,5,2,P36,salted caramel dark chocolate
+C78,9,2,P38,kombucha
+C78,9,2,P37,gummy bears
+C83,8,3,P39,ice cream
+C83,8,3,P38,kombucha
+C83,8,3,P36,salted caramel dark chocolate
+C86,8,3,P42,chicken
+C86,8,3,P49,smoked salmon
+C86,8,3,P59,chicken stock
+C87,3,1,P55,lentil soup
+C89,8,2,P56,greek yoghurt
+C89,8,2,P50,camembert
+C98,7,1,P24,scotch bonnets
+C99,9,1,P52,oats
+C102,1,2,P23,cherries
+C102,1,2,P34,raspberries
+C116,5,2,P23,cherries
+C116,5,2,P33,apples
+C122,10,1,P56,greek yoghurt

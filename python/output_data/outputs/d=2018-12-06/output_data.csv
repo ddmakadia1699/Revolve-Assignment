@@ -1,0 +1,65 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,P08,aluminium foil
+C3,8,3,P07,cling film
+C3,8,3,P01,detergent
+C8,7,1,P49,smoked salmon
+C13,8,3,P35,carrot cake
+C13,8,3,P36,salted caramel dark chocolate
+C13,8,3,P38,kombucha
+C18,8,1,P20,women's blouse
+C23,10,3,P52,oats
+C23,10,3,P52,oats
+C23,10,3,P42,chicken
+C28,3,2,P38,kombucha
+C28,3,2,P38,kombucha
+C32,3,1,P61,red wine
+C35,7,1,P22,avocado
+C40,4,2,P27,potatoes
+C40,4,2,P29,easy peeler
+C41,9,3,P32,onions
+C41,9,3,P28,grapes
+C41,9,3,P30,mango
+C42,2,3,P44,milk
+C42,2,3,P49,smoked salmon
+C42,2,3,P41,steak
+C46,5,1,P01,detergent
+C52,1,1,P61,red wine
+C57,2,1,P11,dishwasher tablets
+C60,10,3,P61,red wine
+C60,10,3,P62,gin
+C60,10,3,P63,cognac
+C61,4,2,P26,broccoli
+C61,4,2,P29,easy peeler
+C65,2,1,P09,toilet paper
+C69,7,3,P56,greek yoghurt
+C69,7,3,P44,milk
+C69,7,3,P57,parmesan
+C81,7,1,P45,hummus
+C88,1,3,P56,greek yoghurt
+C88,1,3,P57,parmesan
+C88,1,3,P57,parmesan
+C90,3,2,P38,kombucha
+C90,3,2,P40,irn bru
+C96,10,3,P38,kombucha
+C96,10,3,P35,carrot cake
+C96,10,3,P38,kombucha
+C101,2,1,P45,hummus
+C109,6,2,P58,coconut water
+C109,6,2,P49,smoked salmon
+C119,7,3,P61,red wine
+C119,7,3,P62,gin
+C119,7,3,P63,cognac
+C125,1,3,P52,oats
+C125,1,3,P56,greek yoghurt
+C125,1,3,P56,greek yoghurt
+C126,4,2,P35,carrot cake
+C126,4,2,P36,salted caramel dark chocolate
+C128,5,3,P33,apples
+C128,5,3,P32,onions
+C128,5,3,P30,mango
+C133,3,1,P55,lentil soup
+C136,10,2,P18,men's striped socks
+C136,10,2,P18,men's striped socks
+C137,9,3,P02,kitchen roll
+C137,9,3,P08,aluminium foil
+C137,9,3,P07,cling film

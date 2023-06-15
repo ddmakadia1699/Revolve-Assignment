@@ -1,0 +1,51 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,2,P24,scotch bonnets
+C6,10,2,P29,easy peeler
+C15,6,3,P29,easy peeler
+C15,6,3,P29,easy peeler
+C15,6,3,P31,lemon grass
+C16,5,1,P64,cigarettes
+C17,2,3,P42,chicken
+C17,2,3,P50,camembert
+C17,2,3,P57,parmesan
+C19,6,3,P25,peppers
+C19,6,3,P31,lemon grass
+C19,6,3,P32,onions
+C21,5,3,P41,steak
+C21,5,3,P57,parmesan
+C21,5,3,P60,water
+C23,10,1,P57,parmesan
+C25,9,2,P63,cognac
+C25,9,2,P61,red wine
+C29,7,2,P34,raspberries
+C29,7,2,P33,apples
+C38,7,2,P33,apples
+C38,7,2,P31,lemon grass
+C40,4,2,P26,broccoli
+C40,4,2,P26,broccoli
+C46,5,1,P54,almond milk
+C48,4,2,P31,lemon grass
+C48,4,2,P26,broccoli
+C49,7,2,P36,salted caramel dark chocolate
+C49,7,2,P38,kombucha
+C55,8,3,P55,lentil soup
+C55,8,3,P54,almond milk
+C55,8,3,P44,milk
+C60,10,1,P28,grapes
+C68,8,3,P34,raspberries
+C68,8,3,P28,grapes
+C68,8,3,P22,avocado
+C72,5,2,P22,avocado
+C72,5,2,P24,scotch bonnets
+C78,9,2,P37,gummy bears
+C78,9,2,P35,carrot cake
+C90,3,3,P56,greek yoghurt
+C90,3,3,P44,milk
+C90,3,3,P46,activated charcoal croissant
+C108,8,3,P38,kombucha
+C108,8,3,P37,gummy bears
+C108,8,3,P38,kombucha
+C119,7,2,P64,cigarettes
+C119,7,2,P64,cigarettes
+C136,10,2,P10,kitchen knife
+C136,10,2,P04,shower gel

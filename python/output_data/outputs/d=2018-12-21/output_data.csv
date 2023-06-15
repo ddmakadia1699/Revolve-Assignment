@@ -1,0 +1,47 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C2,4,3,P40,irn bru
+C2,4,3,P40,irn bru
+C2,4,3,P38,kombucha
+C3,8,2,P12,ice pack
+C3,8,2,P05,scented candles
+C23,10,1,P16,men's belt
+C27,10,1,P64,cigarettes
+C29,7,2,P29,easy peeler
+C29,7,2,P28,grapes
+C32,3,3,P58,coconut water
+C32,3,3,P44,milk
+C32,3,3,P51,pizza
+C35,7,2,P29,easy peeler
+C35,7,2,P29,easy peeler
+C39,2,1,P31,lemon grass
+C42,2,2,P06,fabric softener
+C42,2,2,P09,toilet paper
+C44,9,2,P40,irn bru
+C44,9,2,P37,gummy bears
+C46,5,2,P58,coconut water
+C46,5,2,P60,water
+C55,8,1,P37,gummy bears
+C60,10,2,P30,mango
+C60,10,2,P29,easy peeler
+C71,8,3,P35,carrot cake
+C71,8,3,P40,irn bru
+C71,8,3,P40,irn bru
+C72,5,1,P39,ice cream
+C76,10,2,P50,camembert
+C76,10,2,P52,oats
+C80,9,3,P07,cling film
+C80,9,3,P11,dishwasher tablets
+C80,9,3,P05,scented candles
+C85,8,2,P24,scotch bonnets
+C85,8,2,P23,cherries
+C90,3,1,P60,water
+C101,2,1,P50,camembert
+C104,7,1,P33,apples
+C106,5,3,P48,tuna
+C106,5,3,P56,greek yoghurt
+C106,5,3,P59,chicken stock
+C122,10,3,P31,lemon grass
+C122,10,3,P25,peppers
+C122,10,3,P26,broccoli
+C132,7,2,P22,avocado
+C132,7,2,P34,raspberries

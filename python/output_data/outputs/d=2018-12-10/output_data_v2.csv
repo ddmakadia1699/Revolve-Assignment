@@ -1,0 +1,23 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,"['P35', 'P38', 'P39']","['carrot cake', 'kombucha', 'ice cream']"
+C6,10,2,"['P32', 'P29']","['onions', 'easy peeler']"
+C18,8,2,"['P16', 'P15']","[""men's belt"", 'jumper']"
+C19,6,2,"['P01', 'P09']","['detergent', 'toilet paper']"
+C21,5,2,"['P54', 'P44']","['almond milk', 'milk']"
+C22,1,3,"['P30', 'P33', 'P28']","['mango', 'apples', 'grapes']"
+C26,1,3,"['P48', 'P59', 'P48']","['tuna', 'chicken stock', 'tuna']"
+C46,5,1,['P48'],['tuna']
+C48,4,1,['P05'],['scented candles']
+C65,2,1,['P12'],['ice pack']
+C69,7,1,['P52'],['oats']
+C78,9,1,['P33'],['apples']
+C79,1,3,"['P26', 'P34', 'P34']","['broccoli', 'raspberries', 'raspberries']"
+C82,9,1,['P24'],['scotch bonnets']
+C90,3,1,['P20'],"[""women's blouse""]"
+C98,7,3,"['P21', 'P16', 'P18']","[""women's red dress"", ""men's belt"", ""men's striped socks""]"
+C99,9,2,"['P59', 'P56']","['chicken stock', 'greek yoghurt']"
+C109,6,3,"['P49', 'P57', 'P46']","['smoked salmon', 'parmesan', 'activated charcoal croissant']"
+C113,5,2,"['P56', 'P54']","['greek yoghurt', 'almond milk']"
+C117,10,2,"['P36', 'P40']","['salted caramel dark chocolate', 'irn bru']"
+C119,7,1,['P61'],['red wine']
+C122,10,1,['P59'],['chicken stock']

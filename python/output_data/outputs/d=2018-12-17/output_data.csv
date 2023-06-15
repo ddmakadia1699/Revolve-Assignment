@@ -1,0 +1,53 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C8,7,3,P29,easy peeler
+C8,7,3,P24,scotch bonnets
+C8,7,3,P31,lemon grass
+C23,10,3,P14,women's shoes
+C23,10,3,P15,jumper
+C23,10,3,P14,women's shoes
+C29,7,2,P25,peppers
+C29,7,2,P24,scotch bonnets
+C33,5,2,P25,peppers
+C33,5,2,P23,cherries
+C39,2,1,P31,lemon grass
+C44,9,2,P37,gummy bears
+C44,9,2,P36,salted caramel dark chocolate
+C47,2,3,P34,raspberries
+C47,2,3,P22,avocado
+C47,2,3,P25,peppers
+C49,7,2,P35,carrot cake
+C49,7,2,P39,ice cream
+C58,6,2,P20,women's blouse
+C58,6,2,P16,men's belt
+C62,6,2,P49,smoked salmon
+C62,6,2,P45,hummus
+C66,10,1,P14,women's shoes
+C67,4,3,P35,carrot cake
+C67,4,3,P39,ice cream
+C67,4,3,P40,irn bru
+C68,8,3,P13,men's dark green trousers
+C68,8,3,P14,women's shoes
+C68,8,3,P14,women's shoes
+C69,7,2,P49,smoked salmon
+C69,7,2,P50,camembert
+C76,10,3,P52,oats
+C76,10,3,P44,milk
+C76,10,3,P43,mince beef
+C80,9,2,P10,kitchen knife
+C80,9,2,P07,cling film
+C85,8,1,P44,milk
+C87,3,1,P59,chicken stock
+C88,1,1,P51,pizza
+C100,8,1,P29,easy peeler
+C105,8,2,P61,red wine
+C105,8,2,P64,cigarettes
+C109,6,2,P62,gin
+C109,6,2,P61,red wine
+C112,3,1,P63,cognac
+C113,5,3,P56,greek yoghurt
+C113,5,3,P43,mince beef
+C113,5,3,P44,milk
+C117,10,1,P38,kombucha
+C120,9,2,P08,aluminium foil
+C120,9,2,P08,aluminium foil
+C129,7,1,P01,detergent

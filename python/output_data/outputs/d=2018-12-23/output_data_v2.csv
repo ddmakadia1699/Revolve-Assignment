@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,2,"['P34', 'P32']","['raspberries', 'onions']"
+C18,8,1,['P15'],['jumper']
+C19,6,2,"['P01', 'P03']","['detergent', 'bin liners']"
+C22,1,3,"['P63', 'P62', 'P64']","['cognac', 'gin', 'cigarettes']"
+C36,5,1,['P59'],['chicken stock']
+C38,7,3,"['P28', 'P24', 'P34']","['grapes', 'scotch bonnets', 'raspberries']"
+C39,2,1,['P23'],['cherries']
+C40,4,2,"['P29', 'P32']","['easy peeler', 'onions']"
+C45,10,1,['P27'],['potatoes']
+C54,2,1,['P31'],['lemon grass']
+C65,2,2,"['P02', 'P01']","['kitchen roll', 'detergent']"
+C66,10,2,"['P15', 'P14']","['jumper', ""women's shoes""]"
+C69,7,3,"['P42', 'P43', 'P52']","['chicken', 'mince beef', 'oats']"
+C76,10,3,"['P37', 'P39', 'P39']","['gummy bears', 'ice cream', 'ice cream']"
+C94,10,2,"['P36', 'P40']","['salted caramel dark chocolate', 'irn bru']"
+C106,5,3,"['P57', 'P57', 'P55']","['parmesan', 'parmesan', 'lentil soup']"
+C113,5,1,['P51'],['pizza']
+C115,1,1,['P36'],['salted caramel dark chocolate']
+C119,7,1,['P64'],['cigarettes']
+C127,4,1,['P25'],['peppers']
+C129,7,1,['P07'],['cling film']
+C130,7,2,"['P48', 'P47']","['tuna', 'whole chicken']"
+C136,10,2,"['P16', 'P20']","[""men's belt"", ""women's blouse""]"
+C137,9,3,"['P10', 'P07', 'P04']","['kitchen knife', 'cling film', 'shower gel']"

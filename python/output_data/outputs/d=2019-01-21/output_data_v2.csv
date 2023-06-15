@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,3,"['P36', 'P40', 'P38']","['salted caramel dark chocolate', 'irn bru', 'kombucha']"
+C16,5,2,"['P63', 'P63']","['cognac', 'cognac']"
+C22,1,2,"['P49', 'P42']","['smoked salmon', 'chicken']"
+C23,10,2,"['P56', 'P55']","['greek yoghurt', 'lentil soup']"
+C29,7,2,"['P27', 'P24']","['potatoes', 'scotch bonnets']"
+C32,3,2,"['P50', 'P42']","['camembert', 'chicken']"
+C35,7,3,"['P34', 'P29', 'P22']","['raspberries', 'easy peeler', 'avocado']"
+C39,2,1,['P22'],['avocado']
+C44,9,2,"['P40', 'P38']","['irn bru', 'kombucha']"
+C45,10,1,['P22'],['avocado']
+C47,2,3,"['P31', 'P25', 'P29']","['lemon grass', 'peppers', 'easy peeler']"
+C48,4,2,"['P37', 'P40']","['gummy bears', 'irn bru']"
+C51,3,1,['P32'],['onions']
+C55,8,3,"['P40', 'P40', 'P39']","['irn bru', 'irn bru', 'ice cream']"
+C68,8,3,"['P16', 'P20', 'P19']","[""men's belt"", ""women's blouse"", ""men's trainers""]"
+C72,5,3,"['P20', 'P18', 'P14']","[""women's blouse"", ""men's striped socks"", ""women's shoes""]"
+C78,9,2,"['P24', 'P22']","['scotch bonnets', 'avocado']"
+C85,8,1,['P41'],['steak']
+C101,2,1,['P05'],['scented candles']
+C107,3,2,"['P14', 'P19']","[""women's shoes"", ""men's trainers""]"
+C116,5,1,['P06'],['fabric softener']
+C119,7,1,['P61'],['red wine']
+C125,1,2,"['P09', 'P12']","['toilet paper', 'ice pack']"
+C135,2,1,['P38'],['kombucha']

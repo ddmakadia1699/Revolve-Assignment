@@ -1,0 +1,46 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,2,P29,easy peeler
+C1,7,2,P29,easy peeler
+C3,8,3,P03,bin liners
+C3,8,3,P01,detergent
+C3,8,3,P07,cling film
+C22,1,2,P59,chicken stock
+C22,1,2,P60,water
+C30,4,2,P60,water
+C30,4,2,P51,pizza
+C38,7,3,P11,dishwasher tablets
+C38,7,3,P12,ice pack
+C38,7,3,P10,kitchen knife
+C42,2,1,P45,hummus
+C48,4,1,P38,kombucha
+C58,6,1,P33,apples
+C66,10,2,P17,women's black socks
+C66,10,2,P16,men's belt
+C74,5,1,P04,shower gel
+C75,8,3,P05,scented candles
+C75,8,3,P06,fabric softener
+C75,8,3,P06,fabric softener
+C77,9,1,P47,whole chicken
+C82,9,3,P29,easy peeler
+C82,9,3,P32,onions
+C82,9,3,P32,onions
+C89,8,1,P10,kitchen knife
+C92,1,1,P53,peanut butter
+C101,2,2,P11,dishwasher tablets
+C101,2,2,P07,cling film
+C103,7,2,P61,red wine
+C103,7,2,P62,gin
+C111,1,1,P35,carrot cake
+C117,10,3,P43,mince beef
+C117,10,3,P60,water
+C117,10,3,P50,camembert
+C120,9,1,P07,cling film
+C125,1,3,P03,bin liners
+C125,1,3,P12,ice pack
+C125,1,3,P06,fabric softener
+C126,4,1,P36,salted caramel dark chocolate
+C132,7,2,P26,broccoli
+C132,7,2,P29,easy peeler
+C134,6,2,P36,salted caramel dark chocolate
+C134,6,2,P38,kombucha
+C136,10,1,P07,cling film

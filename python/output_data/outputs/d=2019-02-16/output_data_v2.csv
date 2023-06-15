@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C2,4,3,"['P36', 'P39', 'P40']","['salted caramel dark chocolate', 'ice cream', 'irn bru']"
+C6,10,2,"['P31', 'P33']","['lemon grass', 'apples']"
+C9,8,3,"['P42', 'P54', 'P57']","['chicken', 'almond milk', 'parmesan']"
+C25,9,1,['P63'],['cognac']
+C29,7,2,"['P28', 'P23']","['grapes', 'cherries']"
+C32,3,2,"['P61', 'P61']","['red wine', 'red wine']"
+C36,5,1,['P34'],['raspberries']
+C41,9,3,"['P63', 'P62', 'P64']","['cognac', 'gin', 'cigarettes']"
+C42,2,2,"['P09', 'P12']","['toilet paper', 'ice pack']"
+C43,10,2,"['P45', 'P57']","['hummus', 'parmesan']"
+C46,5,3,"['P52', 'P53', 'P56']","['oats', 'peanut butter', 'greek yoghurt']"
+C51,3,1,['P53'],['peanut butter']
+C60,10,1,['P23'],['cherries']
+C66,10,2,"['P17', 'P18']","[""women's black socks"", ""men's striped socks""]"
+C78,9,2,"['P24', 'P33']","['scotch bonnets', 'apples']"
+C83,8,1,['P35'],['carrot cake']
+C84,1,1,['P38'],['kombucha']
+C87,3,3,"['P49', 'P57', 'P44']","['smoked salmon', 'parmesan', 'milk']"
+C90,3,3,"['P01', 'P06', 'P09']","['detergent', 'fabric softener', 'toilet paper']"
+C98,7,3,"['P31', 'P24', 'P27']","['lemon grass', 'scotch bonnets', 'potatoes']"
+C106,5,3,"['P48', 'P41', 'P53']","['tuna', 'steak', 'peanut butter']"
+C107,3,1,['P17'],"[""women's black socks""]"
+C109,6,2,"['P36', 'P38']","['salted caramel dark chocolate', 'kombucha']"
+C128,5,1,['P27'],['potatoes']

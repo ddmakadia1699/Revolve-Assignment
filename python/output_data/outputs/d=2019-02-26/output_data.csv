@@ -1,0 +1,48 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,P10,kitchen knife
+C3,8,3,P03,bin liners
+C3,8,3,P06,fabric softener
+C12,8,3,P47,whole chicken
+C12,8,3,P58,coconut water
+C12,8,3,P42,chicken
+C15,6,1,P28,grapes
+C20,2,3,P25,peppers
+C20,2,3,P34,raspberries
+C20,2,3,P30,mango
+C23,10,3,P58,coconut water
+C23,10,3,P53,peanut butter
+C23,10,3,P45,hummus
+C35,7,3,P23,cherries
+C35,7,3,P26,broccoli
+C35,7,3,P26,broccoli
+C38,7,1,P45,hummus
+C40,4,1,P23,cherries
+C48,4,3,P12,ice pack
+C48,4,3,P04,shower gel
+C48,4,3,P02,kitchen roll
+C49,7,3,P39,ice cream
+C49,7,3,P39,ice cream
+C49,7,3,P37,gummy bears
+C66,10,1,P18,men's striped socks
+C67,4,1,P38,kombucha
+C68,8,3,P48,tuna
+C68,8,3,P50,camembert
+C68,8,3,P58,coconut water
+C71,8,3,P44,milk
+C71,8,3,P50,camembert
+C71,8,3,P43,mince beef
+C78,9,1,P38,kombucha
+C105,8,3,P08,aluminium foil
+C105,8,3,P10,kitchen knife
+C105,8,3,P12,ice pack
+C109,6,3,P50,camembert
+C109,6,3,P54,almond milk
+C109,6,3,P46,activated charcoal croissant
+C114,3,2,P06,fabric softener
+C114,3,2,P05,scented candles
+C131,4,3,P49,smoked salmon
+C131,4,3,P47,whole chicken
+C131,4,3,P54,almond milk
+C136,10,3,P13,men's dark green trousers
+C136,10,3,P13,men's dark green trousers
+C136,10,3,P20,women's blouse

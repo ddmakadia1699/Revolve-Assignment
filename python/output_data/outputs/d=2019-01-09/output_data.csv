@@ -1,0 +1,56 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,P32,onions
+C1,7,3,P23,cherries
+C1,7,3,P34,raspberries
+C3,8,1,P25,peppers
+C11,4,2,P30,mango
+C11,4,2,P29,easy peeler
+C19,6,1,P11,dishwasher tablets
+C21,5,3,P42,chicken
+C21,5,3,P56,greek yoghurt
+C21,5,3,P57,parmesan
+C22,1,2,P24,scotch bonnets
+C22,1,2,P26,broccoli
+C27,10,1,P18,men's striped socks
+C30,4,3,P38,kombucha
+C30,4,3,P35,carrot cake
+C30,4,3,P37,gummy bears
+C35,7,2,P27,potatoes
+C35,7,2,P33,apples
+C50,8,2,P39,ice cream
+C50,8,2,P36,salted caramel dark chocolate
+C56,4,1,P54,almond milk
+C57,2,1,P38,kombucha
+C61,4,3,P36,salted caramel dark chocolate
+C61,4,3,P40,irn bru
+C61,4,3,P40,irn bru
+C65,2,1,P01,detergent
+C67,4,2,P39,ice cream
+C67,4,2,P37,gummy bears
+C68,8,1,P35,carrot cake
+C70,9,2,P48,tuna
+C70,9,2,P55,lentil soup
+C83,8,2,P27,potatoes
+C83,8,2,P23,cherries
+C85,8,2,P46,activated charcoal croissant
+C85,8,2,P43,mince beef
+C86,8,3,P39,ice cream
+C86,8,3,P40,irn bru
+C86,8,3,P36,salted caramel dark chocolate
+C99,9,2,P60,water
+C99,9,2,P56,greek yoghurt
+C101,2,1,P45,hummus
+C109,6,1,P46,activated charcoal croissant
+C111,1,2,P06,fabric softener
+C111,1,2,P07,cling film
+C113,5,3,P47,whole chicken
+C113,5,3,P45,hummus
+C113,5,3,P49,smoked salmon
+C115,1,3,P37,gummy bears
+C115,1,3,P39,ice cream
+C115,1,3,P37,gummy bears
+C117,10,2,P36,salted caramel dark chocolate
+C117,10,2,P38,kombucha
+C135,2,3,P37,gummy bears
+C135,2,3,P39,ice cream
+C135,2,3,P36,salted caramel dark chocolate

@@ -1,0 +1,20 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C31,9,1,['P23'],['cherries']
+C32,3,3,"['P11', 'P04', 'P06']","['dishwasher tablets', 'shower gel', 'fabric softener']"
+C36,5,1,['P26'],['broccoli']
+C40,4,2,"['P22', 'P23']","['avocado', 'cherries']"
+C43,10,2,"['P24', 'P28']","['scotch bonnets', 'grapes']"
+C53,4,1,['P56'],['greek yoghurt']
+C62,6,1,['P53'],['peanut butter']
+C68,8,1,['P38'],['kombucha']
+C72,5,3,"['P35', 'P35', 'P40']","['carrot cake', 'carrot cake', 'irn bru']"
+C74,5,3,"['P11', 'P01', 'P02']","['dishwasher tablets', 'detergent', 'kitchen roll']"
+C75,8,3,"['P62', 'P61', 'P63']","['gin', 'red wine', 'cognac']"
+C78,9,1,['P10'],['kitchen knife']
+C84,1,1,['P54'],['almond milk']
+C93,5,1,['P58'],['coconut water']
+C97,9,3,"['P63', 'P63', 'P62']","['cognac', 'cognac', 'gin']"
+C102,1,2,"['P62', 'P63']","['gin', 'cognac']"
+C108,8,1,['P39'],['ice cream']
+C129,7,2,"['P26', 'P31']","['broccoli', 'lemon grass']"
+C134,6,1,['P12'],['ice pack']

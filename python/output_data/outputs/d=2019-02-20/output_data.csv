@@ -1,0 +1,32 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C8,7,2,P62,gin
+C8,7,2,P62,gin
+C12,8,2,P43,mince beef
+C12,8,2,P54,almond milk
+C28,3,1,P40,irn bru
+C46,5,1,P58,coconut water
+C47,2,1,P28,grapes
+C50,8,3,P62,gin
+C50,8,3,P63,cognac
+C50,8,3,P62,gin
+C54,2,1,P57,parmesan
+C55,8,3,P18,men's striped socks
+C55,8,3,P13,men's dark green trousers
+C55,8,3,P17,women's black socks
+C65,2,3,P04,shower gel
+C65,2,3,P06,fabric softener
+C65,2,3,P07,cling film
+C70,9,1,P47,whole chicken
+C74,5,1,P08,aluminium foil
+C75,8,1,P62,gin
+C78,9,3,P27,potatoes
+C78,9,3,P32,onions
+C78,9,3,P26,broccoli
+C82,9,1,P39,ice cream
+C90,3,1,P04,shower gel
+C98,7,2,P38,kombucha
+C98,7,2,P40,irn bru
+C122,10,1,P29,easy peeler
+C125,1,1,P05,scented candles
+C126,4,1,P39,ice cream
+C129,7,1,P58,coconut water

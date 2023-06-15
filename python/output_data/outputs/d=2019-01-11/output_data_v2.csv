@@ -1,0 +1,24 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,2,"['P37', 'P38']","['gummy bears', 'kombucha']"
+C9,8,1,['P61'],['red wine']
+C12,8,3,"['P26', 'P27', 'P23']","['broccoli', 'potatoes', 'cherries']"
+C14,3,1,['P21'],"[""women's red dress""]"
+C35,7,2,"['P23', 'P26']","['cherries', 'broccoli']"
+C43,10,1,['P53'],['peanut butter']
+C44,9,1,['P40'],['irn bru']
+C47,2,2,"['P32', 'P30']","['onions', 'mango']"
+C48,4,3,"['P36', 'P36', 'P38']","['salted caramel dark chocolate', 'salted caramel dark chocolate', 'kombucha']"
+C54,2,1,['P37'],['gummy bears']
+C59,6,3,"['P57', 'P53', 'P59']","['parmesan', 'peanut butter', 'chicken stock']"
+C63,2,1,['P26'],['broccoli']
+C66,10,1,['P21'],"[""women's red dress""]"
+C78,9,1,['P38'],['kombucha']
+C81,7,1,['P59'],['chicken stock']
+C98,7,3,"['P31', 'P23', 'P25']","['lemon grass', 'cherries', 'peppers']"
+C106,5,1,['P52'],['oats']
+C113,5,2,"['P45', 'P44']","['hummus', 'milk']"
+C121,10,2,"['P04', 'P05']","['shower gel', 'scented candles']"
+C125,1,2,"['P11', 'P07']","['dishwasher tablets', 'cling film']"
+C127,4,3,"['P23', 'P31', 'P22']","['cherries', 'lemon grass', 'avocado']"
+C128,5,1,['P30'],['mango']
+C131,4,2,"['P56', 'P49']","['greek yoghurt', 'smoked salmon']"

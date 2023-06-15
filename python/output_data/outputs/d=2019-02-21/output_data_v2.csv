@@ -1,0 +1,23 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,1,['P32'],['onions']
+C9,8,1,['P24'],['scotch bonnets']
+C15,6,2,"['P23', 'P31']","['cherries', 'lemon grass']"
+C21,5,1,['P56'],['greek yoghurt']
+C23,10,1,['P20'],"[""women's blouse""]"
+C25,9,1,['P64'],['cigarettes']
+C35,7,3,"['P52', 'P42', 'P43']","['oats', 'chicken', 'mince beef']"
+C45,10,1,['P36'],['salted caramel dark chocolate']
+C60,10,3,"['P28', 'P26', 'P32']","['grapes', 'broccoli', 'onions']"
+C69,7,2,"['P45', 'P53']","['hummus', 'peanut butter']"
+C77,9,2,"['P53', 'P43']","['peanut butter', 'mince beef']"
+C84,1,1,['P51'],['pizza']
+C100,8,3,"['P31', 'P32', 'P26']","['lemon grass', 'onions', 'broccoli']"
+C104,7,2,"['P61', 'P63']","['red wine', 'cognac']"
+C113,5,3,"['P50', 'P49', 'P60']","['camembert', 'smoked salmon', 'water']"
+C116,5,1,['P60'],['water']
+C118,7,1,['P07'],['cling film']
+C120,9,2,"['P11', 'P07']","['dishwasher tablets', 'cling film']"
+C121,10,2,"['P05', 'P09']","['scented candles', 'toilet paper']"
+C129,7,3,"['P27', 'P32', 'P25']","['potatoes', 'onions', 'peppers']"
+C130,7,3,"['P46', 'P60', 'P55']","['activated charcoal croissant', 'water', 'lentil soup']"
+C135,2,3,"['P37', 'P40', 'P37']","['gummy bears', 'irn bru', 'gummy bears']"

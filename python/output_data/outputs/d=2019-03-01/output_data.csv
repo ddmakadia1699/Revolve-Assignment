@@ -1,0 +1,34 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C31,9,1,P23,cherries
+C32,3,3,P11,dishwasher tablets
+C32,3,3,P04,shower gel
+C32,3,3,P06,fabric softener
+C36,5,1,P26,broccoli
+C40,4,2,P22,avocado
+C40,4,2,P23,cherries
+C43,10,2,P24,scotch bonnets
+C43,10,2,P28,grapes
+C53,4,1,P56,greek yoghurt
+C62,6,1,P53,peanut butter
+C68,8,1,P38,kombucha
+C72,5,3,P35,carrot cake
+C72,5,3,P35,carrot cake
+C72,5,3,P40,irn bru
+C74,5,3,P11,dishwasher tablets
+C74,5,3,P01,detergent
+C74,5,3,P02,kitchen roll
+C75,8,3,P62,gin
+C75,8,3,P61,red wine
+C75,8,3,P63,cognac
+C78,9,1,P10,kitchen knife
+C84,1,1,P54,almond milk
+C93,5,1,P58,coconut water
+C97,9,3,P63,cognac
+C97,9,3,P63,cognac
+C97,9,3,P62,gin
+C102,1,2,P62,gin
+C102,1,2,P63,cognac
+C108,8,1,P39,ice cream
+C129,7,2,P26,broccoli
+C129,7,2,P31,lemon grass
+C134,6,1,P12,ice pack

@@ -1,0 +1,15 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,"['P07', 'P05', 'P04']","['cling film', 'scented candles', 'shower gel']"
+C22,1,1,['P33'],['apples']
+C32,3,1,['P53'],['peanut butter']
+C47,2,3,"['P27', 'P29', 'P23']","['potatoes', 'easy peeler', 'cherries']"
+C61,4,1,['P63'],['cognac']
+C67,4,3,"['P38', 'P40', 'P40']","['kombucha', 'irn bru', 'irn bru']"
+C71,8,1,['P15'],['jumper']
+C74,5,3,"['P11', 'P08', 'P10']","['dishwasher tablets', 'aluminium foil', 'kitchen knife']"
+C75,8,1,['P63'],['cognac']
+C76,10,1,['P64'],['cigarettes']
+C97,9,3,"['P64', 'P63', 'P62']","['cigarettes', 'cognac', 'gin']"
+C103,7,1,['P61'],['red wine']
+C116,5,2,"['P09', 'P03']","['toilet paper', 'bin liners']"
+C117,10,3,"['P54', 'P51', 'P42']","['almond milk', 'pizza', 'chicken']"

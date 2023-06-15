@@ -1,0 +1,27 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,"['P07', 'P02', 'P03']","['cling film', 'kitchen roll', 'bin liners']"
+C6,10,2,"['P60', 'P41']","['water', 'steak']"
+C9,8,2,"['P58', 'P43']","['coconut water', 'mince beef']"
+C15,6,3,"['P26', 'P34', 'P33']","['broccoli', 'raspberries', 'apples']"
+C17,2,3,"['P39', 'P37', 'P36']","['ice cream', 'gummy bears', 'salted caramel dark chocolate']"
+C22,1,2,"['P31', 'P23']","['lemon grass', 'cherries']"
+C24,6,3,"['P34', 'P22', 'P28']","['raspberries', 'avocado', 'grapes']"
+C32,3,1,['P42'],['chicken']
+C38,7,2,"['P29', 'P34']","['easy peeler', 'raspberries']"
+C40,4,2,"['P26', 'P26']","['broccoli', 'broccoli']"
+C45,10,3,"['P62', 'P64', 'P62']","['gin', 'cigarettes', 'gin']"
+C53,4,2,"['P26', 'P24']","['broccoli', 'scotch bonnets']"
+C65,2,1,['P10'],['kitchen knife']
+C68,8,3,"['P51', 'P47', 'P53']","['pizza', 'whole chicken', 'peanut butter']"
+C71,8,1,['P54'],['almond milk']
+C78,9,3,"['P40', 'P37', 'P39']","['irn bru', 'gummy bears', 'ice cream']"
+C82,9,2,"['P27', 'P31']","['potatoes', 'lemon grass']"
+C87,3,3,"['P57', 'P57', 'P49']","['parmesan', 'parmesan', 'smoked salmon']"
+C98,7,2,"['P40', 'P40']","['irn bru', 'irn bru']"
+C108,8,3,"['P40', 'P40', 'P37']","['irn bru', 'irn bru', 'gummy bears']"
+C114,3,1,['P49'],['smoked salmon']
+C117,10,1,['P60'],['water']
+C127,4,1,['P25'],['peppers']
+C134,6,2,"['P39', 'P39']","['ice cream', 'ice cream']"
+C136,10,1,['P04'],['shower gel']
+C137,9,2,"['P50', 'P41']","['camembert', 'steak']"

@@ -1,0 +1,47 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,3,P36,salted caramel dark chocolate
+C13,8,3,P40,irn bru
+C13,8,3,P38,kombucha
+C16,5,2,P63,cognac
+C16,5,2,P63,cognac
+C22,1,2,P49,smoked salmon
+C22,1,2,P42,chicken
+C23,10,2,P56,greek yoghurt
+C23,10,2,P55,lentil soup
+C29,7,2,P27,potatoes
+C29,7,2,P24,scotch bonnets
+C32,3,2,P50,camembert
+C32,3,2,P42,chicken
+C35,7,3,P34,raspberries
+C35,7,3,P29,easy peeler
+C35,7,3,P22,avocado
+C39,2,1,P22,avocado
+C44,9,2,P40,irn bru
+C44,9,2,P38,kombucha
+C45,10,1,P22,avocado
+C47,2,3,P31,lemon grass
+C47,2,3,P25,peppers
+C47,2,3,P29,easy peeler
+C48,4,2,P37,gummy bears
+C48,4,2,P40,irn bru
+C51,3,1,P32,onions
+C55,8,3,P40,irn bru
+C55,8,3,P40,irn bru
+C55,8,3,P39,ice cream
+C68,8,3,P16,men's belt
+C68,8,3,P20,women's blouse
+C68,8,3,P19,men's trainers
+C72,5,3,P20,women's blouse
+C72,5,3,P18,men's striped socks
+C72,5,3,P14,women's shoes
+C78,9,2,P24,scotch bonnets
+C78,9,2,P22,avocado
+C85,8,1,P41,steak
+C101,2,1,P05,scented candles
+C107,3,2,P14,women's shoes
+C107,3,2,P19,men's trainers
+C116,5,1,P06,fabric softener
+C119,7,1,P61,red wine
+C125,1,2,P09,toilet paper
+C125,1,2,P12,ice pack
+C135,2,1,P38,kombucha

@@ -1,0 +1,43 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,2,P14,women's shoes
+C5,7,2,P14,women's shoes
+C8,7,1,P61,red wine
+C13,8,1,P37,gummy bears
+C16,5,1,P22,avocado
+C19,6,1,P22,avocado
+C21,5,1,P45,hummus
+C29,7,1,P28,grapes
+C39,2,3,P27,potatoes
+C39,2,3,P33,apples
+C39,2,3,P24,scotch bonnets
+C54,2,1,P50,camembert
+C57,2,1,P08,aluminium foil
+C68,8,2,P23,cherries
+C68,8,2,P27,potatoes
+C71,8,2,P23,cherries
+C71,8,2,P27,potatoes
+C72,5,2,P18,men's striped socks
+C72,5,2,P20,women's blouse
+C82,9,2,P30,mango
+C82,9,2,P28,grapes
+C87,3,3,P46,activated charcoal croissant
+C87,3,3,P57,parmesan
+C87,3,3,P58,coconut water
+C99,9,2,P43,mince beef
+C99,9,2,P43,mince beef
+C100,8,3,P22,avocado
+C100,8,3,P25,peppers
+C100,8,3,P29,easy peeler
+C102,1,2,P26,broccoli
+C102,1,2,P23,cherries
+C103,7,2,P64,cigarettes
+C103,7,2,P62,gin
+C109,6,1,P32,onions
+C110,3,3,P21,women's red dress
+C110,3,3,P20,women's blouse
+C110,3,3,P19,men's trainers
+C113,5,1,P48,tuna
+C116,5,3,P08,aluminium foil
+C116,5,3,P12,ice pack
+C116,5,3,P12,ice pack
+C135,2,1,P38,kombucha

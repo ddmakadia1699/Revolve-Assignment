@@ -1,0 +1,27 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,1,['P28'],['grapes']
+C20,2,3,"['P50', 'P55', 'P47']","['camembert', 'lentil soup', 'whole chicken']"
+C24,6,3,"['P03', 'P07', 'P07']","['bin liners', 'cling film', 'cling film']"
+C26,1,3,"['P59', 'P47', 'P49']","['chicken stock', 'whole chicken', 'smoked salmon']"
+C27,10,2,"['P17', 'P16']","[""women's black socks"", ""men's belt""]"
+C31,9,1,['P42'],['chicken']
+C34,3,2,"['P26', 'P33']","['broccoli', 'apples']"
+C48,4,1,['P32'],['onions']
+C49,7,3,"['P37', 'P38', 'P37']","['gummy bears', 'kombucha', 'gummy bears']"
+C51,3,3,"['P30', 'P34', 'P30']","['mango', 'raspberries', 'mango']"
+C53,4,1,['P37'],['gummy bears']
+C60,10,1,['P63'],['cognac']
+C62,6,2,"['P45', 'P49']","['hummus', 'smoked salmon']"
+C66,10,1,['P17'],"[""women's black socks""]"
+C70,9,2,"['P42', 'P57']","['chicken', 'parmesan']"
+C74,5,3,"['P11', 'P09', 'P09']","['dishwasher tablets', 'toilet paper', 'toilet paper']"
+C76,10,1,['P64'],['cigarettes']
+C82,9,1,['P40'],['irn bru']
+C88,1,2,"['P55', 'P53']","['lentil soup', 'peanut butter']"
+C90,3,2,"['P03', 'P08']","['bin liners', 'aluminium foil']"
+C94,10,3,"['P35', 'P39', 'P40']","['carrot cake', 'ice cream', 'irn bru']"
+C96,10,1,['P25'],['peppers']
+C100,8,1,['P23'],['cherries']
+C110,3,2,"['P43', 'P42']","['mince beef', 'chicken']"
+C125,1,1,['P53'],['peanut butter']
+C134,6,2,"['P23', 'P34']","['cherries', 'raspberries']"

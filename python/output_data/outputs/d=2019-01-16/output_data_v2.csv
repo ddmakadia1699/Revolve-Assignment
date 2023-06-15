@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,3,"['P41', 'P50', 'P47']","['steak', 'camembert', 'whole chicken']"
+C11,4,1,['P31'],['lemon grass']
+C16,5,1,['P63'],['cognac']
+C17,2,1,['P46'],['activated charcoal croissant']
+C23,10,3,"['P57', 'P57', 'P55']","['parmesan', 'parmesan', 'lentil soup']"
+C25,9,1,['P62'],['gin']
+C26,1,2,"['P45', 'P53']","['hummus', 'peanut butter']"
+C27,10,3,"['P18', 'P19', 'P16']","[""men's striped socks"", ""men's trainers"", ""men's belt""]"
+C38,7,1,['P46'],['activated charcoal croissant']
+C52,1,1,['P21'],"[""women's red dress""]"
+C53,4,1,['P37'],['gummy bears']
+C54,2,1,['P62'],['gin']
+C57,2,3,"['P03', 'P10', 'P02']","['bin liners', 'kitchen knife', 'kitchen roll']"
+C59,6,2,"['P35', 'P40']","['carrot cake', 'irn bru']"
+C78,9,3,"['P28', 'P28', 'P28']","['grapes', 'grapes', 'grapes']"
+C86,8,1,['P58'],['coconut water']
+C88,1,1,['P43'],['mince beef']
+C109,6,2,"['P50', 'P46']","['camembert', 'activated charcoal croissant']"
+C112,3,3,"['P22', 'P33', 'P27']","['avocado', 'apples', 'potatoes']"
+C116,5,1,['P01'],['detergent']
+C118,7,3,"['P09', 'P02', 'P08']","['toilet paper', 'kitchen roll', 'aluminium foil']"
+C125,1,1,['P02'],['kitchen roll']
+C130,7,3,"['P49', 'P51', 'P54']","['smoked salmon', 'pizza', 'almond milk']"
+C131,4,2,"['P40', 'P37']","['irn bru', 'gummy bears']"

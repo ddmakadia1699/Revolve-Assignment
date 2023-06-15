@@ -1,0 +1,27 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C2,4,1,['P37'],['gummy bears']
+C5,7,2,"['P18', 'P17']","[""men's striped socks"", ""women's black socks""]"
+C25,9,3,"['P63', 'P62', 'P64']","['cognac', 'gin', 'cigarettes']"
+C31,9,2,"['P28', 'P24']","['grapes', 'scotch bonnets']"
+C35,7,3,"['P38', 'P37', 'P36']","['kombucha', 'gummy bears', 'salted caramel dark chocolate']"
+C51,3,2,"['P28', 'P30']","['grapes', 'mango']"
+C52,1,3,"['P61', 'P61', 'P64']","['red wine', 'red wine', 'cigarettes']"
+C56,4,3,"['P45', 'P56', 'P49']","['hummus', 'greek yoghurt', 'smoked salmon']"
+C59,6,1,['P63'],['cognac']
+C72,5,1,['P25'],['peppers']
+C74,5,3,"['P01', 'P03', 'P05']","['detergent', 'bin liners', 'scented candles']"
+C75,8,3,"['P08', 'P06', 'P04']","['aluminium foil', 'fabric softener', 'shower gel']"
+C78,9,3,"['P31', 'P22', 'P29']","['lemon grass', 'avocado', 'easy peeler']"
+C80,9,2,"['P01', 'P04']","['detergent', 'shower gel']"
+C88,1,3,"['P53', 'P47', 'P51']","['peanut butter', 'whole chicken', 'pizza']"
+C92,1,2,"['P55', 'P52']","['lentil soup', 'oats']"
+C95,7,1,['P10'],['kitchen knife']
+C96,10,3,"['P39', 'P37', 'P37']","['ice cream', 'gummy bears', 'gummy bears']"
+C97,9,1,['P22'],['avocado']
+C98,7,3,"['P33', 'P27', 'P34']","['apples', 'potatoes', 'raspberries']"
+C102,1,1,['P24'],['scotch bonnets']
+C109,6,3,"['P64', 'P63', 'P62']","['cigarettes', 'cognac', 'gin']"
+C116,5,3,"['P44', 'P54', 'P55']","['milk', 'almond milk', 'lentil soup']"
+C135,2,3,"['P35', 'P38', 'P37']","['carrot cake', 'kombucha', 'gummy bears']"
+C136,10,1,['P05'],['scented candles']
+C137,9,2,"['P03', 'P11']","['bin liners', 'dishwasher tablets']"

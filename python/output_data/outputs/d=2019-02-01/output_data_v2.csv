@@ -1,0 +1,23 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,2,"['P25', 'P22']","['peppers', 'avocado']"
+C6,10,2,"['P26', 'P26']","['broccoli', 'broccoli']"
+C11,4,2,"['P41', 'P49']","['steak', 'smoked salmon']"
+C13,8,2,"['P37', 'P39']","['gummy bears', 'ice cream']"
+C16,5,2,"['P31', 'P28']","['lemon grass', 'grapes']"
+C20,2,2,"['P57', 'P49']","['parmesan', 'smoked salmon']"
+C26,1,2,"['P52', 'P50']","['oats', 'camembert']"
+C34,3,1,['P15'],['jumper']
+C43,10,3,"['P28', 'P28', 'P23']","['grapes', 'grapes', 'cherries']"
+C45,10,3,"['P50', 'P46', 'P44']","['camembert', 'activated charcoal croissant', 'milk']"
+C60,10,2,"['P30', 'P31']","['mango', 'lemon grass']"
+C61,4,2,"['P19', 'P21']","[""men's trainers"", ""women's red dress""]"
+C66,10,1,['P15'],['jumper']
+C72,5,1,['P16'],"[""men's belt""]"
+C82,9,3,"['P34', 'P30', 'P30']","['raspberries', 'mango', 'mango']"
+C85,8,3,"['P45', 'P57', 'P43']","['hummus', 'parmesan', 'mince beef']"
+C88,1,3,"['P49', 'P55', 'P48']","['smoked salmon', 'lentil soup', 'tuna']"
+C90,3,3,"['P09', 'P05', 'P01']","['toilet paper', 'scented candles', 'detergent']"
+C95,7,1,['P58'],['coconut water']
+C96,10,2,"['P36', 'P36']","['salted caramel dark chocolate', 'salted caramel dark chocolate']"
+C112,3,1,['P35'],['carrot cake']
+C130,7,1,['P46'],['activated charcoal croissant']

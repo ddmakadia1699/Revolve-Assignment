@@ -1,0 +1,57 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,1,P29,easy peeler
+C6,10,3,P53,peanut butter
+C6,10,3,P56,greek yoghurt
+C6,10,3,P54,almond milk
+C8,7,3,P29,easy peeler
+C8,7,3,P33,apples
+C8,7,3,P32,onions
+C12,8,3,P26,broccoli
+C12,8,3,P26,broccoli
+C12,8,3,P32,onions
+C13,8,3,P37,gummy bears
+C13,8,3,P40,irn bru
+C13,8,3,P35,carrot cake
+C17,2,1,P52,oats
+C19,6,2,P24,scotch bonnets
+C19,6,2,P29,easy peeler
+C22,1,1,P42,chicken
+C30,4,2,P06,fabric softener
+C30,4,2,P11,dishwasher tablets
+C36,5,3,P54,almond milk
+C36,5,3,P45,hummus
+C36,5,3,P46,activated charcoal croissant
+C45,10,1,P36,salted caramel dark chocolate
+C47,2,1,P23,cherries
+C54,2,2,P48,tuna
+C54,2,2,P45,hummus
+C55,8,3,P37,gummy bears
+C55,8,3,P37,gummy bears
+C55,8,3,P36,salted caramel dark chocolate
+C56,4,3,P53,peanut butter
+C56,4,3,P58,coconut water
+C56,4,3,P50,camembert
+C60,10,1,P64,cigarettes
+C65,2,3,P02,kitchen roll
+C65,2,3,P02,kitchen roll
+C65,2,3,P01,detergent
+C68,8,2,P38,kombucha
+C68,8,2,P36,salted caramel dark chocolate
+C70,9,1,P42,chicken
+C77,9,1,P43,mince beef
+C80,9,2,P22,avocado
+C80,9,2,P28,grapes
+C86,8,3,P46,activated charcoal croissant
+C86,8,3,P42,chicken
+C86,8,3,P47,whole chicken
+C90,3,3,P07,cling film
+C90,3,3,P06,fabric softener
+C90,3,3,P11,dishwasher tablets
+C101,2,1,P16,men's belt
+C117,10,2,P40,irn bru
+C117,10,2,P36,salted caramel dark chocolate
+C122,10,3,P31,lemon grass
+C122,10,3,P22,avocado
+C122,10,3,P28,grapes
+C137,9,2,P03,bin liners
+C137,9,2,P06,fabric softener

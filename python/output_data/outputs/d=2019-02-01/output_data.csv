@@ -1,0 +1,45 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,2,P25,peppers
+C5,7,2,P22,avocado
+C6,10,2,P26,broccoli
+C6,10,2,P26,broccoli
+C11,4,2,P41,steak
+C11,4,2,P49,smoked salmon
+C13,8,2,P37,gummy bears
+C13,8,2,P39,ice cream
+C16,5,2,P31,lemon grass
+C16,5,2,P28,grapes
+C20,2,2,P57,parmesan
+C20,2,2,P49,smoked salmon
+C26,1,2,P52,oats
+C26,1,2,P50,camembert
+C34,3,1,P15,jumper
+C43,10,3,P28,grapes
+C43,10,3,P28,grapes
+C43,10,3,P23,cherries
+C45,10,3,P50,camembert
+C45,10,3,P46,activated charcoal croissant
+C45,10,3,P44,milk
+C60,10,2,P30,mango
+C60,10,2,P31,lemon grass
+C61,4,2,P19,men's trainers
+C61,4,2,P21,women's red dress
+C66,10,1,P15,jumper
+C72,5,1,P16,men's belt
+C82,9,3,P34,raspberries
+C82,9,3,P30,mango
+C82,9,3,P30,mango
+C85,8,3,P45,hummus
+C85,8,3,P57,parmesan
+C85,8,3,P43,mince beef
+C88,1,3,P49,smoked salmon
+C88,1,3,P55,lentil soup
+C88,1,3,P48,tuna
+C90,3,3,P09,toilet paper
+C90,3,3,P05,scented candles
+C90,3,3,P01,detergent
+C95,7,1,P58,coconut water
+C96,10,2,P36,salted caramel dark chocolate
+C96,10,2,P36,salted caramel dark chocolate
+C112,3,1,P35,carrot cake
+C130,7,1,P46,activated charcoal croissant

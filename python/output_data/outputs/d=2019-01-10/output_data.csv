@@ -1,0 +1,36 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,1,P11,dishwasher tablets
+C7,3,2,P41,steak
+C7,3,2,P52,oats
+C23,10,1,P15,jumper
+C27,10,2,P64,cigarettes
+C27,10,2,P63,cognac
+C31,9,2,P32,onions
+C31,9,2,P29,easy peeler
+C36,5,2,P22,avocado
+C36,5,2,P29,easy peeler
+C45,10,2,P61,red wine
+C45,10,2,P64,cigarettes
+C46,5,2,P09,toilet paper
+C46,5,2,P01,detergent
+C47,2,1,P32,onions
+C60,10,1,P32,onions
+C64,10,2,P38,kombucha
+C64,10,2,P39,ice cream
+C65,2,3,P10,kitchen knife
+C65,2,3,P07,cling film
+C65,2,3,P04,shower gel
+C68,8,2,P45,hummus
+C68,8,2,P44,milk
+C74,5,2,P08,aluminium foil
+C74,5,2,P06,fabric softener
+C93,5,2,P58,coconut water
+C93,5,2,P47,whole chicken
+C98,7,2,P32,onions
+C98,7,2,P28,grapes
+C116,5,1,P04,shower gel
+C122,10,3,P23,cherries
+C122,10,3,P32,onions
+C122,10,3,P28,grapes
+C133,3,1,P59,chicken stock
+C137,9,1,P62,gin

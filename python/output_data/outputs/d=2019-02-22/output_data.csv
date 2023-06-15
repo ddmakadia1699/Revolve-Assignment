@@ -1,0 +1,50 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,2,P27,potatoes
+C1,7,2,P32,onions
+C7,3,2,P37,gummy bears
+C7,3,2,P35,carrot cake
+C14,3,2,P21,women's red dress
+C14,3,2,P18,men's striped socks
+C24,6,1,P25,peppers
+C26,1,3,P41,steak
+C26,1,3,P45,hummus
+C26,1,3,P48,tuna
+C32,3,1,P60,water
+C35,7,2,P28,grapes
+C35,7,2,P33,apples
+C38,7,3,P22,avocado
+C38,7,3,P33,apples
+C38,7,3,P25,peppers
+C48,4,3,P37,gummy bears
+C48,4,3,P38,kombucha
+C48,4,3,P39,ice cream
+C51,3,2,P57,parmesan
+C51,3,2,P51,pizza
+C57,2,1,P40,irn bru
+C60,10,1,P24,scotch bonnets
+C65,2,2,P03,bin liners
+C65,2,2,P04,shower gel
+C68,8,3,P38,kombucha
+C68,8,3,P39,ice cream
+C68,8,3,P40,irn bru
+C70,9,3,P53,peanut butter
+C70,9,3,P42,chicken
+C70,9,3,P42,chicken
+C85,8,3,P51,pizza
+C85,8,3,P46,activated charcoal croissant
+C85,8,3,P53,peanut butter
+C87,3,1,P58,coconut water
+C88,1,1,P46,activated charcoal croissant
+C111,1,2,P64,cigarettes
+C111,1,2,P64,cigarettes
+C113,5,3,P45,hummus
+C113,5,3,P41,steak
+C113,5,3,P58,coconut water
+C116,5,1,P27,potatoes
+C125,1,3,P46,activated charcoal croissant
+C125,1,3,P43,mince beef
+C125,1,3,P49,smoked salmon
+C126,4,1,P48,tuna
+C135,2,3,P39,ice cream
+C135,2,3,P40,irn bru
+C135,2,3,P37,gummy bears

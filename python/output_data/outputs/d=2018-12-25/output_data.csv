@@ -1,0 +1,49 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,2,P10,kitchen knife
+C3,8,2,P08,aluminium foil
+C6,10,3,P32,onions
+C6,10,3,P30,mango
+C6,10,3,P22,avocado
+C7,3,1,P40,irn bru
+C23,10,1,P16,men's belt
+C27,10,1,P16,men's belt
+C28,3,1,P40,irn bru
+C30,4,2,P22,avocado
+C30,4,2,P27,potatoes
+C40,4,3,P33,apples
+C40,4,3,P27,potatoes
+C40,4,3,P27,potatoes
+C41,9,1,P31,lemon grass
+C48,4,3,P27,potatoes
+C48,4,3,P30,mango
+C48,4,3,P24,scotch bonnets
+C61,4,2,P21,women's red dress
+C61,4,2,P17,women's black socks
+C62,6,3,P41,steak
+C62,6,3,P59,chicken stock
+C62,6,3,P51,pizza
+C70,9,2,P48,tuna
+C70,9,2,P59,chicken stock
+C75,8,2,P61,red wine
+C75,8,2,P61,red wine
+C82,9,3,P35,carrot cake
+C82,9,3,P37,gummy bears
+C82,9,3,P40,irn bru
+C90,3,3,P13,men's dark green trousers
+C90,3,3,P18,men's striped socks
+C90,3,3,P20,women's blouse
+C98,7,2,P27,potatoes
+C98,7,2,P33,apples
+C109,6,2,P62,gin
+C109,6,2,P62,gin
+C110,3,1,P57,parmesan
+C114,3,2,P42,chicken
+C114,3,2,P51,pizza
+C133,3,3,P59,chicken stock
+C133,3,3,P47,whole chicken
+C133,3,3,P52,oats
+C135,2,2,P37,gummy bears
+C135,2,2,P35,carrot cake
+C136,10,3,P19,men's trainers
+C136,10,3,P14,women's shoes
+C136,10,3,P16,men's belt

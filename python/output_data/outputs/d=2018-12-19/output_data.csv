@@ -1,0 +1,63 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,1,P29,easy peeler
+C5,7,3,P27,potatoes
+C5,7,3,P28,grapes
+C5,7,3,P31,lemon grass
+C11,4,1,P55,lentil soup
+C13,8,2,P37,gummy bears
+C13,8,2,P36,salted caramel dark chocolate
+C25,9,1,P62,gin
+C26,1,2,P46,activated charcoal croissant
+C26,1,2,P56,greek yoghurt
+C30,4,3,P47,whole chicken
+C30,4,3,P44,milk
+C30,4,3,P41,steak
+C40,4,1,P23,cherries
+C51,3,3,P57,parmesan
+C51,3,3,P43,mince beef
+C51,3,3,P44,milk
+C57,2,1,P39,ice cream
+C58,6,3,P28,grapes
+C58,6,3,P22,avocado
+C58,6,3,P28,grapes
+C60,10,3,P25,peppers
+C60,10,3,P26,broccoli
+C60,10,3,P30,mango
+C68,8,1,P44,milk
+C70,9,2,P51,pizza
+C70,9,2,P55,lentil soup
+C78,9,2,P35,carrot cake
+C78,9,2,P40,irn bru
+C82,9,1,P31,lemon grass
+C85,8,3,P44,milk
+C85,8,3,P55,lentil soup
+C85,8,3,P47,whole chicken
+C88,1,2,P48,tuna
+C88,1,2,P60,water
+C91,3,1,P38,kombucha
+C94,10,3,P35,carrot cake
+C94,10,3,P35,carrot cake
+C94,10,3,P36,salted caramel dark chocolate
+C97,9,3,P28,grapes
+C97,9,3,P27,potatoes
+C97,9,3,P26,broccoli
+C99,9,2,P45,hummus
+C99,9,2,P54,almond milk
+C101,2,3,P64,cigarettes
+C101,2,3,P61,red wine
+C101,2,3,P61,red wine
+C113,5,1,P44,milk
+C115,1,2,P40,irn bru
+C115,1,2,P40,irn bru
+C117,10,2,P37,gummy bears
+C117,10,2,P35,carrot cake
+C126,4,3,P26,broccoli
+C126,4,3,P25,peppers
+C126,4,3,P29,easy peeler
+C130,7,2,P58,coconut water
+C130,7,2,P55,lentil soup
+C133,3,3,P36,salted caramel dark chocolate
+C133,3,3,P38,kombucha
+C133,3,3,P39,ice cream
+C137,9,2,P09,toilet paper
+C137,9,2,P08,aluminium foil

@@ -1,0 +1,59 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,1,P02,kitchen roll
+C4,5,2,P39,ice cream
+C4,5,2,P35,carrot cake
+C10,5,3,P29,easy peeler
+C10,5,3,P25,peppers
+C10,5,3,P32,onions
+C13,8,2,P44,milk
+C13,8,2,P55,lentil soup
+C16,5,2,P39,ice cream
+C16,5,2,P35,carrot cake
+C18,8,1,P13,men's dark green trousers
+C25,9,1,P62,gin
+C26,1,3,P48,tuna
+C26,1,3,P45,hummus
+C26,1,3,P57,parmesan
+C43,10,3,P39,ice cream
+C43,10,3,P37,gummy bears
+C43,10,3,P35,carrot cake
+C47,2,1,P32,onions
+C48,4,2,P11,dishwasher tablets
+C48,4,2,P12,ice pack
+C57,2,2,P05,scented candles
+C57,2,2,P01,detergent
+C66,10,1,P16,men's belt
+C69,7,2,P59,chicken stock
+C69,7,2,P50,camembert
+C75,8,2,P06,fabric softener
+C75,8,2,P12,ice pack
+C81,7,2,P36,salted caramel dark chocolate
+C81,7,2,P37,gummy bears
+C87,3,1,P59,chicken stock
+C88,1,2,P58,coconut water
+C88,1,2,P44,milk
+C102,1,1,P61,red wine
+C105,8,3,P08,aluminium foil
+C105,8,3,P08,aluminium foil
+C105,8,3,P02,kitchen roll
+C109,6,2,P39,ice cream
+C109,6,2,P38,kombucha
+C110,3,3,P16,men's belt
+C110,3,3,P14,women's shoes
+C110,3,3,P14,women's shoes
+C113,5,2,P59,chicken stock
+C113,5,2,P41,steak
+C115,1,2,P39,ice cream
+C115,1,2,P39,ice cream
+C116,5,2,P10,kitchen knife
+C116,5,2,P05,scented candles
+C126,4,1,P35,carrot cake
+C131,4,3,P55,lentil soup
+C131,4,3,P58,coconut water
+C131,4,3,P42,chicken
+C132,7,3,P24,scotch bonnets
+C132,7,3,P24,scotch bonnets
+C132,7,3,P23,cherries
+C137,9,3,P47,whole chicken
+C137,9,3,P48,tuna
+C137,9,3,P46,activated charcoal croissant

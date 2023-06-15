@@ -1,0 +1,39 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C9,8,3,P63,cognac
+C9,8,3,P62,gin
+C9,8,3,P62,gin
+C25,9,2,P43,mince beef
+C25,9,2,P47,whole chicken
+C29,7,3,P24,scotch bonnets
+C29,7,3,P30,mango
+C29,7,3,P27,potatoes
+C30,4,1,P55,lentil soup
+C31,9,2,P51,pizza
+C31,9,2,P49,smoked salmon
+C32,3,1,P61,red wine
+C39,2,2,P06,fabric softener
+C39,2,2,P06,fabric softener
+C51,3,1,P49,smoked salmon
+C62,6,2,P47,whole chicken
+C62,6,2,P59,chicken stock
+C63,2,3,P22,avocado
+C63,2,3,P29,easy peeler
+C63,2,3,P24,scotch bonnets
+C69,7,2,P55,lentil soup
+C69,7,2,P49,smoked salmon
+C75,8,2,P36,salted caramel dark chocolate
+C75,8,2,P37,gummy bears
+C77,9,2,P47,whole chicken
+C77,9,2,P59,chicken stock
+C90,3,1,P21,women's red dress
+C96,10,2,P40,irn bru
+C96,10,2,P38,kombucha
+C97,9,1,P63,cognac
+C98,7,3,P29,easy peeler
+C98,7,3,P29,easy peeler
+C98,7,3,P30,mango
+C100,8,1,P28,grapes
+C106,5,2,P44,milk
+C106,5,2,P52,oats
+C120,9,2,P02,kitchen roll
+C120,9,2,P06,fabric softener

@@ -1,0 +1,20 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C8,7,3,"['P24', 'P22', 'P33']","['scotch bonnets', 'avocado', 'apples']"
+C12,8,2,"['P48', 'P47']","['tuna', 'whole chicken']"
+C13,8,2,"['P31', 'P31']","['lemon grass', 'lemon grass']"
+C23,10,3,"['P19', 'P15', 'P17']","[""men's trainers"", 'jumper', ""women's black socks""]"
+C29,7,3,"['P30', 'P22', 'P28']","['mango', 'avocado', 'grapes']"
+C35,7,2,"['P23', 'P26']","['cherries', 'broccoli']"
+C37,9,2,"['P49', 'P45']","['smoked salmon', 'hummus']"
+C40,4,1,['P22'],['avocado']
+C53,4,1,['P55'],['lentil soup']
+C60,10,1,['P31'],['lemon grass']
+C68,8,2,"['P49', 'P58']","['smoked salmon', 'coconut water']"
+C74,5,2,"['P05', 'P07']","['scented candles', 'cling film']"
+C80,9,1,['P09'],['toilet paper']
+C90,3,2,"['P38', 'P35']","['kombucha', 'carrot cake']"
+C106,5,1,['P46'],['activated charcoal croissant']
+C116,5,3,"['P53', 'P47', 'P55']","['peanut butter', 'whole chicken', 'lentil soup']"
+C125,1,2,"['P01', 'P09']","['detergent', 'toilet paper']"
+C129,7,3,"['P10', 'P05', 'P12']","['kitchen knife', 'scented candles', 'ice pack']"
+C132,7,1,['P28'],['grapes']

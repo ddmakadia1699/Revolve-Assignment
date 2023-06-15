@@ -1,0 +1,24 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,"['P27', 'P33', 'P30']","['potatoes', 'apples', 'mango']"
+C3,8,3,"['P36', 'P40', 'P38']","['salted caramel dark chocolate', 'irn bru', 'kombucha']"
+C6,10,3,"['P30', 'P27', 'P28']","['mango', 'potatoes', 'grapes']"
+C9,8,3,"['P64', 'P62', 'P63']","['cigarettes', 'gin', 'cognac']"
+C22,1,2,"['P54', 'P55']","['almond milk', 'lentil soup']"
+C23,10,2,"['P15', 'P16']","['jumper', ""men's belt""]"
+C25,9,3,"['P57', 'P54', 'P54']","['parmesan', 'almond milk', 'almond milk']"
+C30,4,3,"['P11', 'P03', 'P09']","['dishwasher tablets', 'bin liners', 'toilet paper']"
+C36,5,2,"['P53', 'P59']","['peanut butter', 'chicken stock']"
+C38,7,1,['P32'],['onions']
+C40,4,3,"['P31', 'P30', 'P32']","['lemon grass', 'mango', 'onions']"
+C42,2,3,"['P32', 'P34', 'P33']","['onions', 'raspberries', 'apples']"
+C46,5,2,"['P52', 'P49']","['oats', 'smoked salmon']"
+C48,4,3,"['P37', 'P37', 'P37']","['gummy bears', 'gummy bears', 'gummy bears']"
+C55,8,2,"['P39', 'P37']","['ice cream', 'gummy bears']"
+C67,4,1,['P36'],['salted caramel dark chocolate']
+C69,7,1,['P51'],['pizza']
+C70,9,2,"['P60', 'P60']","['water', 'water']"
+C99,9,3,"['P45', 'P57', 'P41']","['hummus', 'parmesan', 'steak']"
+C106,5,3,"['P47', 'P57', 'P52']","['whole chicken', 'parmesan', 'oats']"
+C130,7,1,['P56'],['greek yoghurt']
+C132,7,2,"['P22', 'P28']","['avocado', 'grapes']"
+C135,2,1,['P35'],['carrot cake']

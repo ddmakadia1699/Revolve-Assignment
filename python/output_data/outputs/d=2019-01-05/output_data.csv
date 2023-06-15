@@ -1,0 +1,34 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,1,P27,potatoes
+C6,10,2,P32,onions
+C6,10,2,P29,easy peeler
+C7,3,2,P39,ice cream
+C7,3,2,P36,salted caramel dark chocolate
+C13,8,1,P48,tuna
+C24,6,2,P12,ice pack
+C24,6,2,P10,kitchen knife
+C26,1,3,P50,camembert
+C26,1,3,P53,peanut butter
+C26,1,3,P47,whole chicken
+C31,9,3,P29,easy peeler
+C31,9,3,P24,scotch bonnets
+C31,9,3,P30,mango
+C38,7,2,P51,pizza
+C38,7,2,P54,almond milk
+C39,2,2,P34,raspberries
+C39,2,2,P32,onions
+C53,4,2,P25,peppers
+C53,4,2,P25,peppers
+C57,2,1,P60,water
+C68,8,1,P15,jumper
+C72,5,1,P34,raspberries
+C74,5,2,P04,shower gel
+C74,5,2,P02,kitchen roll
+C85,8,1,P45,hummus
+C112,3,1,P43,mince beef
+C128,5,3,P28,grapes
+C128,5,3,P25,peppers
+C128,5,3,P22,avocado
+C137,9,3,P12,ice pack
+C137,9,3,P05,scented candles
+C137,9,3,P07,cling film

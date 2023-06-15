@@ -1,0 +1,10 @@
+boto3
+pytest
+numpy
+pandas
+pytz
+simplejson
+mockito
+scipy
+pyspark
+pyspark-stubs

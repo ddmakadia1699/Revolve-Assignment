@@ -1,0 +1,38 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C8,7,3,P24,scotch bonnets
+C8,7,3,P22,avocado
+C8,7,3,P33,apples
+C12,8,2,P48,tuna
+C12,8,2,P47,whole chicken
+C13,8,2,P31,lemon grass
+C13,8,2,P31,lemon grass
+C23,10,3,P19,men's trainers
+C23,10,3,P15,jumper
+C23,10,3,P17,women's black socks
+C29,7,3,P30,mango
+C29,7,3,P22,avocado
+C29,7,3,P28,grapes
+C35,7,2,P23,cherries
+C35,7,2,P26,broccoli
+C37,9,2,P49,smoked salmon
+C37,9,2,P45,hummus
+C40,4,1,P22,avocado
+C53,4,1,P55,lentil soup
+C60,10,1,P31,lemon grass
+C68,8,2,P49,smoked salmon
+C68,8,2,P58,coconut water
+C74,5,2,P05,scented candles
+C74,5,2,P07,cling film
+C80,9,1,P09,toilet paper
+C90,3,2,P38,kombucha
+C90,3,2,P35,carrot cake
+C106,5,1,P46,activated charcoal croissant
+C116,5,3,P53,peanut butter
+C116,5,3,P47,whole chicken
+C116,5,3,P55,lentil soup
+C125,1,2,P01,detergent
+C125,1,2,P09,toilet paper
+C129,7,3,P10,kitchen knife
+C129,7,3,P05,scented candles
+C129,7,3,P12,ice pack
+C132,7,1,P28,grapes

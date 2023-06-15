@@ -1,0 +1,41 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,2,P37,gummy bears
+C3,8,2,P38,kombucha
+C9,8,1,P61,red wine
+C12,8,3,P26,broccoli
+C12,8,3,P27,potatoes
+C12,8,3,P23,cherries
+C14,3,1,P21,women's red dress
+C35,7,2,P23,cherries
+C35,7,2,P26,broccoli
+C43,10,1,P53,peanut butter
+C44,9,1,P40,irn bru
+C47,2,2,P32,onions
+C47,2,2,P30,mango
+C48,4,3,P36,salted caramel dark chocolate
+C48,4,3,P36,salted caramel dark chocolate
+C48,4,3,P38,kombucha
+C54,2,1,P37,gummy bears
+C59,6,3,P57,parmesan
+C59,6,3,P53,peanut butter
+C59,6,3,P59,chicken stock
+C63,2,1,P26,broccoli
+C66,10,1,P21,women's red dress
+C78,9,1,P38,kombucha
+C81,7,1,P59,chicken stock
+C98,7,3,P31,lemon grass
+C98,7,3,P23,cherries
+C98,7,3,P25,peppers
+C106,5,1,P52,oats
+C113,5,2,P45,hummus
+C113,5,2,P44,milk
+C121,10,2,P04,shower gel
+C121,10,2,P05,scented candles
+C125,1,2,P11,dishwasher tablets
+C125,1,2,P07,cling film
+C127,4,3,P23,cherries
+C127,4,3,P31,lemon grass
+C127,4,3,P22,avocado
+C128,5,1,P30,mango
+C131,4,2,P56,greek yoghurt
+C131,4,2,P49,smoked salmon

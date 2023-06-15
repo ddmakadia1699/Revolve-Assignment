@@ -1,0 +1,30 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,3,P15,jumper
+C5,7,3,P14,women's shoes
+C5,7,3,P20,women's blouse
+C16,5,1,P29,easy peeler
+C21,5,2,P23,cherries
+C21,5,2,P29,easy peeler
+C29,7,1,P31,lemon grass
+C35,7,2,P39,ice cream
+C35,7,2,P39,ice cream
+C38,7,1,P22,avocado
+C42,2,2,P02,kitchen roll
+C42,2,2,P03,bin liners
+C45,10,2,P61,red wine
+C45,10,2,P64,cigarettes
+C53,4,2,P35,carrot cake
+C53,4,2,P37,gummy bears
+C63,2,1,P61,red wine
+C92,1,2,P60,water
+C92,1,2,P57,parmesan
+C96,10,1,P39,ice cream
+C98,7,3,P18,men's striped socks
+C98,7,3,P18,men's striped socks
+C98,7,3,P19,men's trainers
+C110,3,1,P55,lentil soup
+C116,5,1,P46,activated charcoal croissant
+C117,10,1,P45,hummus
+C124,7,2,P40,irn bru
+C124,7,2,P37,gummy bears
+C128,5,1,P32,onions

@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,"['P29', 'P29', 'P23']","['easy peeler', 'easy peeler', 'cherries']"
+C3,8,3,"['P06', 'P07', 'P03']","['fabric softener', 'cling film', 'bin liners']"
+C6,10,1,['P27'],['potatoes']
+C21,5,1,['P43'],['mince beef']
+C22,1,2,"['P30', 'P22']","['mango', 'avocado']"
+C23,10,1,['P21'],"[""women's red dress""]"
+C35,7,3,"['P29', 'P32', 'P26']","['easy peeler', 'onions', 'broccoli']"
+C45,10,1,['P63'],['cognac']
+C51,3,2,"['P33', 'P28']","['apples', 'grapes']"
+C56,4,1,['P54'],['almond milk']
+C59,6,2,"['P41', 'P46']","['steak', 'activated charcoal croissant']"
+C67,4,3,"['P39', 'P40', 'P35']","['ice cream', 'irn bru', 'carrot cake']"
+C69,7,2,"['P54', 'P43']","['almond milk', 'mince beef']"
+C76,10,1,['P61'],['red wine']
+C81,7,3,"['P53', 'P50', 'P59']","['peanut butter', 'camembert', 'chicken stock']"
+C83,8,3,"['P32', 'P24', 'P33']","['onions', 'scotch bonnets', 'apples']"
+C87,3,2,"['P47', 'P44']","['whole chicken', 'milk']"
+C100,8,2,"['P22', 'P26']","['avocado', 'broccoli']"
+C104,7,3,"['P36', 'P35', 'P37']","['salted caramel dark chocolate', 'carrot cake', 'gummy bears']"
+C110,3,3,"['P59', 'P54', 'P58']","['chicken stock', 'almond milk', 'coconut water']"
+C116,5,1,['P24'],['scotch bonnets']
+C123,3,3,"['P31', 'P32', 'P28']","['lemon grass', 'onions', 'grapes']"
+C126,4,3,"['P40', 'P37', 'P35']","['irn bru', 'gummy bears', 'carrot cake']"
+C131,4,2,"['P41', 'P43']","['steak', 'mince beef']"

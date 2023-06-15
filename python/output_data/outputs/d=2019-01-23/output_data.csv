@@ -1,0 +1,41 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,P39,ice cream
+C3,8,3,P40,irn bru
+C3,8,3,P36,salted caramel dark chocolate
+C5,7,3,P47,whole chicken
+C5,7,3,P53,peanut butter
+C5,7,3,P47,whole chicken
+C16,5,3,P61,red wine
+C16,5,3,P63,cognac
+C16,5,3,P61,red wine
+C19,6,3,P25,peppers
+C19,6,3,P30,mango
+C19,6,3,P29,easy peeler
+C23,10,1,P20,women's blouse
+C26,1,1,P53,peanut butter
+C47,2,2,P23,cherries
+C47,2,2,P33,apples
+C49,7,3,P37,gummy bears
+C49,7,3,P37,gummy bears
+C49,7,3,P39,ice cream
+C59,6,2,P07,cling film
+C59,6,2,P01,detergent
+C60,10,2,P22,avocado
+C60,10,2,P24,scotch bonnets
+C65,2,1,P08,aluminium foil
+C69,7,2,P47,whole chicken
+C69,7,2,P43,mince beef
+C72,5,1,P15,jumper
+C74,5,2,P10,kitchen knife
+C74,5,2,P12,ice pack
+C78,9,1,P26,broccoli
+C94,10,3,P37,gummy bears
+C94,10,3,P35,carrot cake
+C94,10,3,P35,carrot cake
+C109,6,1,P60,water
+C114,3,2,P05,scented candles
+C114,3,2,P06,fabric softener
+C123,3,1,P26,broccoli
+C125,1,2,P47,whole chicken
+C125,1,2,P44,milk
+C132,7,1,P28,grapes

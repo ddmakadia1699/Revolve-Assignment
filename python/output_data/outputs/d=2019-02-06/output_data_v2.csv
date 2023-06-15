@@ -1,0 +1,30 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,"['P32', 'P27', 'P28']","['onions', 'potatoes', 'grapes']"
+C3,8,3,"['P37', 'P38', 'P38']","['gummy bears', 'kombucha', 'kombucha']"
+C11,4,2,"['P50', 'P44']","['camembert', 'milk']"
+C12,8,1,['P48'],['tuna']
+C13,8,1,['P32'],['onions']
+C15,6,3,"['P32', 'P33', 'P22']","['onions', 'apples', 'avocado']"
+C21,5,1,['P24'],['scotch bonnets']
+C22,1,1,['P28'],['grapes']
+C31,9,1,['P56'],['greek yoghurt']
+C40,4,3,"['P26', 'P26', 'P25']","['broccoli', 'broccoli', 'peppers']"
+C47,2,2,"['P32', 'P28']","['onions', 'grapes']"
+C59,6,1,['P38'],['kombucha']
+C60,10,2,"['P28', 'P24']","['grapes', 'scotch bonnets']"
+C69,7,2,"['P47', 'P41']","['whole chicken', 'steak']"
+C72,5,2,"['P26', 'P33']","['broccoli', 'apples']"
+C73,2,3,"['P41', 'P54', 'P49']","['steak', 'almond milk', 'smoked salmon']"
+C80,9,1,['P11'],['dishwasher tablets']
+C81,7,1,['P40'],['irn bru']
+C85,8,3,"['P28', 'P24', 'P27']","['grapes', 'scotch bonnets', 'potatoes']"
+C90,3,3,"['P35', 'P39', 'P38']","['carrot cake', 'ice cream', 'kombucha']"
+C93,5,2,"['P43', 'P55']","['mince beef', 'lentil soup']"
+C98,7,3,"['P53', 'P50', 'P53']","['peanut butter', 'camembert', 'peanut butter']"
+C101,2,2,"['P55', 'P53']","['lentil soup', 'peanut butter']"
+C108,8,2,"['P37', 'P37']","['gummy bears', 'gummy bears']"
+C112,3,3,"['P50', 'P60', 'P56']","['camembert', 'water', 'greek yoghurt']"
+C113,5,1,['P58'],['coconut water']
+C121,10,2,"['P33', 'P27']","['apples', 'potatoes']"
+C125,1,3,"['P50', 'P58', 'P42']","['camembert', 'coconut water', 'chicken']"
+C131,4,2,"['P58', 'P52']","['coconut water', 'oats']"

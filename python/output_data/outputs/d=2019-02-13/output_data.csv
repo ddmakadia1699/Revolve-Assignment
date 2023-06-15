@@ -1,0 +1,50 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C9,8,1,P30,mango
+C17,2,1,P13,men's dark green trousers
+C19,6,1,P31,lemon grass
+C25,9,1,P63,cognac
+C26,1,2,P48,tuna
+C26,1,2,P45,hummus
+C30,4,2,P55,lentil soup
+C30,4,2,P42,chicken
+C35,7,3,P36,salted caramel dark chocolate
+C35,7,3,P35,carrot cake
+C35,7,3,P36,salted caramel dark chocolate
+C47,2,1,P31,lemon grass
+C48,4,3,P32,onions
+C48,4,3,P34,raspberries
+C48,4,3,P27,potatoes
+C53,4,1,P36,salted caramel dark chocolate
+C58,6,3,P17,women's black socks
+C58,6,3,P13,men's dark green trousers
+C58,6,3,P20,women's blouse
+C59,6,1,P54,almond milk
+C60,10,3,P62,gin
+C60,10,3,P63,cognac
+C60,10,3,P63,cognac
+C61,4,2,P28,grapes
+C61,4,2,P33,apples
+C66,10,2,P20,women's blouse
+C66,10,2,P17,women's black socks
+C68,8,3,P22,avocado
+C68,8,3,P29,easy peeler
+C68,8,3,P27,potatoes
+C74,5,1,P07,cling film
+C75,8,2,P64,cigarettes
+C75,8,2,P63,cognac
+C82,9,3,P32,onions
+C82,9,3,P25,peppers
+C82,9,3,P23,cherries
+C97,9,1,P60,water
+C100,8,3,P29,easy peeler
+C100,8,3,P23,cherries
+C100,8,3,P24,scotch bonnets
+C108,8,1,P37,gummy bears
+C117,10,3,P38,kombucha
+C117,10,3,P38,kombucha
+C117,10,3,P39,ice cream
+C122,10,1,P51,pizza
+C134,6,2,P40,irn bru
+C134,6,2,P38,kombucha
+C135,2,2,P36,salted caramel dark chocolate
+C135,2,2,P39,ice cream

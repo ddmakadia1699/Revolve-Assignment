@@ -1,0 +1,22 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,3,"['P39', 'P38', 'P37']","['ice cream', 'kombucha', 'gummy bears']"
+C15,6,2,"['P24', 'P23']","['scotch bonnets', 'cherries']"
+C28,3,1,['P36'],['salted caramel dark chocolate']
+C29,7,3,"['P26', 'P31', 'P27']","['broccoli', 'lemon grass', 'potatoes']"
+C32,3,2,"['P62', 'P64']","['gin', 'cigarettes']"
+C38,7,2,"['P45', 'P58']","['hummus', 'coconut water']"
+C45,10,1,['P26'],['broccoli']
+C47,2,2,"['P25', 'P33']","['peppers', 'apples']"
+C59,6,1,['P43'],['mince beef']
+C64,10,3,"['P40', 'P35', 'P39']","['irn bru', 'carrot cake', 'ice cream']"
+C70,9,2,"['P59', 'P43']","['chicken stock', 'mince beef']"
+C74,5,1,['P05'],['scented candles']
+C80,9,3,"['P03', 'P11', 'P09']","['bin liners', 'dishwasher tablets', 'toilet paper']"
+C85,8,1,['P22'],['avocado']
+C93,5,2,"['P34', 'P26']","['raspberries', 'broccoli']"
+C95,7,1,['P44'],['milk']
+C99,9,2,"['P60', 'P41']","['water', 'steak']"
+C106,5,3,"['P62', 'P63', 'P62']","['gin', 'cognac', 'gin']"
+C108,8,2,"['P40', 'P37']","['irn bru', 'gummy bears']"
+C128,5,2,"['P27', 'P26']","['potatoes', 'broccoli']"
+C135,2,1,['P39'],['ice cream']

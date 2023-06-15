@@ -1,0 +1,53 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,3,P41,steak
+C6,10,3,P43,mince beef
+C6,10,3,P46,activated charcoal croissant
+C15,6,1,P24,scotch bonnets
+C19,6,2,P12,ice pack
+C19,6,2,P12,ice pack
+C35,7,2,P24,scotch bonnets
+C35,7,2,P22,avocado
+C45,10,3,P43,mince beef
+C45,10,3,P58,coconut water
+C45,10,3,P41,steak
+C52,1,3,P63,cognac
+C52,1,3,P61,red wine
+C52,1,3,P64,cigarettes
+C54,2,2,P45,hummus
+C54,2,2,P42,chicken
+C60,10,3,P62,gin
+C60,10,3,P61,red wine
+C60,10,3,P61,red wine
+C68,8,2,P21,women's red dress
+C68,8,2,P16,men's belt
+C69,7,1,P53,peanut butter
+C78,9,3,P28,grapes
+C78,9,3,P33,apples
+C78,9,3,P31,lemon grass
+C83,8,2,P25,peppers
+C83,8,2,P26,broccoli
+C86,8,1,P38,kombucha
+C97,9,2,P61,red wine
+C97,9,2,P61,red wine
+C100,8,2,P30,mango
+C100,8,2,P33,apples
+C103,7,3,P61,red wine
+C103,7,3,P64,cigarettes
+C103,7,3,P62,gin
+C113,5,1,P49,smoked salmon
+C120,9,3,P02,kitchen roll
+C120,9,3,P09,toilet paper
+C120,9,3,P11,dishwasher tablets
+C129,7,2,P04,shower gel
+C129,7,2,P02,kitchen roll
+C131,4,3,P49,smoked salmon
+C131,4,3,P46,activated charcoal croissant
+C131,4,3,P51,pizza
+C132,7,3,P22,avocado
+C132,7,3,P23,cherries
+C132,7,3,P24,scotch bonnets
+C134,6,3,P38,kombucha
+C134,6,3,P35,carrot cake
+C134,6,3,P35,carrot cake
+C135,2,2,P36,salted caramel dark chocolate
+C135,2,2,P39,ice cream

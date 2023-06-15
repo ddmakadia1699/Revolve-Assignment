@@ -1,0 +1,19 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,2,"['P46', 'P57']","['activated charcoal croissant', 'parmesan']"
+C12,8,1,['P51'],['pizza']
+C15,6,1,['P28'],['grapes']
+C19,6,1,['P10'],['kitchen knife']
+C47,2,1,['P31'],['lemon grass']
+C65,2,1,['P07'],['cling film']
+C69,7,3,"['P60', 'P55', 'P42']","['water', 'lentil soup', 'chicken']"
+C72,5,2,"['P17', 'P13']","[""women's black socks"", ""men's dark green trousers""]"
+C77,9,2,"['P52', 'P58']","['oats', 'coconut water']"
+C78,9,1,['P07'],['cling film']
+C81,7,3,"['P52', 'P41', 'P51']","['oats', 'steak', 'pizza']"
+C87,3,1,['P59'],['chicken stock']
+C90,3,3,"['P21', 'P17', 'P20']","[""women's red dress"", ""women's black socks"", ""women's blouse""]"
+C103,7,3,"['P64', 'P64', 'P64']","['cigarettes', 'cigarettes', 'cigarettes']"
+C106,5,2,"['P61', 'P64']","['red wine', 'cigarettes']"
+C113,5,3,"['P54', 'P48', 'P46']","['almond milk', 'tuna', 'activated charcoal croissant']"
+C127,4,3,"['P24', 'P32', 'P32']","['scotch bonnets', 'onions', 'onions']"
+C137,9,1,['P42'],['chicken']

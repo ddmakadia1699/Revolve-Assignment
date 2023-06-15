@@ -1,0 +1,43 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,1,P32,onions
+C9,8,1,P24,scotch bonnets
+C15,6,2,P23,cherries
+C15,6,2,P31,lemon grass
+C21,5,1,P56,greek yoghurt
+C23,10,1,P20,women's blouse
+C25,9,1,P64,cigarettes
+C35,7,3,P52,oats
+C35,7,3,P42,chicken
+C35,7,3,P43,mince beef
+C45,10,1,P36,salted caramel dark chocolate
+C60,10,3,P28,grapes
+C60,10,3,P26,broccoli
+C60,10,3,P32,onions
+C69,7,2,P45,hummus
+C69,7,2,P53,peanut butter
+C77,9,2,P53,peanut butter
+C77,9,2,P43,mince beef
+C84,1,1,P51,pizza
+C100,8,3,P31,lemon grass
+C100,8,3,P32,onions
+C100,8,3,P26,broccoli
+C104,7,2,P61,red wine
+C104,7,2,P63,cognac
+C113,5,3,P50,camembert
+C113,5,3,P49,smoked salmon
+C113,5,3,P60,water
+C116,5,1,P60,water
+C118,7,1,P07,cling film
+C120,9,2,P11,dishwasher tablets
+C120,9,2,P07,cling film
+C121,10,2,P05,scented candles
+C121,10,2,P09,toilet paper
+C129,7,3,P27,potatoes
+C129,7,3,P32,onions
+C129,7,3,P25,peppers
+C130,7,3,P46,activated charcoal croissant
+C130,7,3,P60,water
+C130,7,3,P55,lentil soup
+C135,2,3,P37,gummy bears
+C135,2,3,P40,irn bru
+C135,2,3,P37,gummy bears

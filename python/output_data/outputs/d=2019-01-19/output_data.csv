@@ -1,0 +1,51 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,1,P35,carrot cake
+C15,6,3,P32,onions
+C15,6,3,P26,broccoli
+C15,6,3,P28,grapes
+C22,1,3,P23,cherries
+C22,1,3,P22,avocado
+C22,1,3,P32,onions
+C23,10,1,P60,water
+C27,10,1,P62,gin
+C31,9,3,P43,mince beef
+C31,9,3,P57,parmesan
+C31,9,3,P60,water
+C32,3,1,P64,cigarettes
+C33,5,1,P25,peppers
+C45,10,2,P23,cherries
+C45,10,2,P24,scotch bonnets
+C48,4,1,P02,kitchen roll
+C53,4,1,P36,salted caramel dark chocolate
+C54,2,2,P36,salted caramel dark chocolate
+C54,2,2,P40,irn bru
+C58,6,2,P34,raspberries
+C58,6,2,P24,scotch bonnets
+C70,9,1,P48,tuna
+C72,5,2,P21,women's red dress
+C72,5,2,P18,men's striped socks
+C76,10,1,P63,cognac
+C79,1,1,P59,chicken stock
+C82,9,3,P23,cherries
+C82,9,3,P32,onions
+C82,9,3,P22,avocado
+C83,8,1,P31,lemon grass
+C98,7,1,P28,grapes
+C101,2,3,P45,hummus
+C101,2,3,P43,mince beef
+C101,2,3,P55,lentil soup
+C116,5,2,P50,camembert
+C116,5,2,P46,activated charcoal croissant
+C119,7,3,P62,gin
+C119,7,3,P64,cigarettes
+C119,7,3,P63,cognac
+C122,10,1,P33,apples
+C123,3,3,P23,cherries
+C123,3,3,P28,grapes
+C123,3,3,P32,onions
+C125,1,2,P41,steak
+C125,1,2,P59,chicken stock
+C134,6,3,P34,raspberries
+C134,6,3,P33,apples
+C134,6,3,P34,raspberries
+C137,9,1,P57,parmesan

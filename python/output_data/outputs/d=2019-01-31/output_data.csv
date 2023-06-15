@@ -1,0 +1,49 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C12,8,3,P58,coconut water
+C12,8,3,P51,pizza
+C12,8,3,P43,mince beef
+C13,8,2,P05,scented candles
+C13,8,2,P06,fabric softener
+C16,5,1,P24,scotch bonnets
+C18,8,2,P40,irn bru
+C18,8,2,P38,kombucha
+C29,7,3,P32,onions
+C29,7,3,P30,mango
+C29,7,3,P31,lemon grass
+C30,4,1,P34,raspberries
+C35,7,3,P53,peanut butter
+C35,7,3,P49,smoked salmon
+C35,7,3,P47,whole chicken
+C40,4,1,P32,onions
+C41,9,1,P25,peppers
+C44,9,1,P37,gummy bears
+C52,1,2,P15,jumper
+C52,1,2,P20,women's blouse
+C60,10,1,P24,scotch bonnets
+C66,10,2,P16,men's belt
+C66,10,2,P14,women's shoes
+C74,5,3,P11,dishwasher tablets
+C74,5,3,P03,bin liners
+C74,5,3,P12,ice pack
+C81,7,1,P43,mince beef
+C98,7,3,P19,men's trainers
+C98,7,3,P21,women's red dress
+C98,7,3,P21,women's red dress
+C99,9,3,P45,hummus
+C99,9,3,P46,activated charcoal croissant
+C99,9,3,P58,coconut water
+C101,2,1,P64,cigarettes
+C112,3,3,P28,grapes
+C112,3,3,P24,scotch bonnets
+C112,3,3,P23,cherries
+C115,1,1,P38,kombucha
+C122,10,3,P34,raspberries
+C122,10,3,P29,easy peeler
+C122,10,3,P23,cherries
+C123,3,2,P31,lemon grass
+C123,3,2,P29,easy peeler
+C133,3,2,P38,kombucha
+C133,3,2,P36,salted caramel dark chocolate
+C137,9,3,P62,gin
+C137,9,3,P64,cigarettes
+C137,9,3,P61,red wine

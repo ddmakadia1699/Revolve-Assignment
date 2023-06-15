@@ -1,0 +1,24 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,1,['P24'],['scotch bonnets']
+C12,8,2,"['P30', 'P25']","['mango', 'peppers']"
+C17,2,2,"['P34', 'P28']","['raspberries', 'grapes']"
+C19,6,3,"['P02', 'P12', 'P04']","['kitchen roll', 'ice pack', 'shower gel']"
+C24,6,2,"['P02', 'P11']","['kitchen roll', 'dishwasher tablets']"
+C31,9,1,['P51'],['pizza']
+C32,3,1,['P49'],['smoked salmon']
+C35,7,2,"['P47', 'P52']","['whole chicken', 'oats']"
+C38,7,1,['P48'],['tuna']
+C44,9,2,"['P37', 'P38']","['gummy bears', 'kombucha']"
+C65,2,2,"['P02', 'P09']","['kitchen roll', 'toilet paper']"
+C70,9,1,['P42'],['chicken']
+C74,5,3,"['P08', 'P02', 'P03']","['aluminium foil', 'kitchen roll', 'bin liners']"
+C75,8,1,['P07'],['cling film']
+C78,9,1,['P37'],['gummy bears']
+C85,8,2,"['P42', 'P44']","['chicken', 'milk']"
+C88,1,1,['P44'],['milk']
+C93,5,1,['P48'],['tuna']
+C95,7,2,"['P48', 'P50']","['tuna', 'camembert']"
+C100,8,3,"['P24', 'P26', 'P23']","['scotch bonnets', 'broccoli', 'cherries']"
+C109,6,1,['P36'],['salted caramel dark chocolate']
+C126,4,1,['P31'],['lemon grass']
+C136,10,2,"['P19', 'P14']","[""men's trainers"", ""women's shoes""]"

@@ -1,0 +1,22 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,"['P39', 'P40', 'P36']","['ice cream', 'irn bru', 'salted caramel dark chocolate']"
+C5,7,3,"['P47', 'P53', 'P47']","['whole chicken', 'peanut butter', 'whole chicken']"
+C16,5,3,"['P61', 'P63', 'P61']","['red wine', 'cognac', 'red wine']"
+C19,6,3,"['P25', 'P30', 'P29']","['peppers', 'mango', 'easy peeler']"
+C23,10,1,['P20'],"[""women's blouse""]"
+C26,1,1,['P53'],['peanut butter']
+C47,2,2,"['P23', 'P33']","['cherries', 'apples']"
+C49,7,3,"['P37', 'P37', 'P39']","['gummy bears', 'gummy bears', 'ice cream']"
+C59,6,2,"['P07', 'P01']","['cling film', 'detergent']"
+C60,10,2,"['P22', 'P24']","['avocado', 'scotch bonnets']"
+C65,2,1,['P08'],['aluminium foil']
+C69,7,2,"['P47', 'P43']","['whole chicken', 'mince beef']"
+C72,5,1,['P15'],['jumper']
+C74,5,2,"['P10', 'P12']","['kitchen knife', 'ice pack']"
+C78,9,1,['P26'],['broccoli']
+C94,10,3,"['P37', 'P35', 'P35']","['gummy bears', 'carrot cake', 'carrot cake']"
+C109,6,1,['P60'],['water']
+C114,3,2,"['P05', 'P06']","['scented candles', 'fabric softener']"
+C123,3,1,['P26'],['broccoli']
+C125,1,2,"['P47', 'P44']","['whole chicken', 'milk']"
+C132,7,1,['P28'],['grapes']

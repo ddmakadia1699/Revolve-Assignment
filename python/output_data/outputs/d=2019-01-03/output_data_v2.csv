@@ -1,0 +1,22 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,2,"['P35', 'P36']","['carrot cake', 'salted caramel dark chocolate']"
+C13,8,1,['P03'],['bin liners']
+C21,5,1,['P51'],['pizza']
+C32,3,1,['P02'],['kitchen roll']
+C49,7,3,"['P40', 'P38', 'P40']","['irn bru', 'kombucha', 'irn bru']"
+C56,4,1,['P49'],['smoked salmon']
+C59,6,2,"['P61', 'P64']","['red wine', 'cigarettes']"
+C61,4,1,['P61'],['red wine']
+C66,10,3,"['P20', 'P18', 'P14']","[""women's blouse"", ""men's striped socks"", ""women's shoes""]"
+C69,7,2,"['P53', 'P57']","['peanut butter', 'parmesan']"
+C75,8,1,['P63'],['cognac']
+C76,10,3,"['P63', 'P62', 'P61']","['cognac', 'gin', 'red wine']"
+C78,9,2,"['P40', 'P38']","['irn bru', 'kombucha']"
+C85,8,1,['P44'],['milk']
+C90,3,3,"['P04', 'P12', 'P06']","['shower gel', 'ice pack', 'fabric softener']"
+C95,7,2,"['P56', 'P53']","['greek yoghurt', 'peanut butter']"
+C113,5,2,"['P49', 'P57']","['smoked salmon', 'parmesan']"
+C123,3,2,"['P26', 'P34']","['broccoli', 'raspberries']"
+C125,1,1,['P56'],['greek yoghurt']
+C129,7,2,"['P23', 'P25']","['cherries', 'peppers']"
+C130,7,1,['P45'],['hummus']

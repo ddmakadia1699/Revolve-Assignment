@@ -1,0 +1,33 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,2,P27,potatoes
+C13,8,2,P28,grapes
+C20,2,2,P53,peanut butter
+C20,2,2,P44,milk
+C27,10,1,P18,men's striped socks
+C30,4,3,P39,ice cream
+C30,4,3,P35,carrot cake
+C30,4,3,P37,gummy bears
+C51,3,3,P33,apples
+C51,3,3,P24,scotch bonnets
+C51,3,3,P24,scotch bonnets
+C54,2,2,P39,ice cream
+C54,2,2,P38,kombucha
+C59,6,1,P46,activated charcoal croissant
+C60,10,1,P27,potatoes
+C67,4,2,P38,kombucha
+C67,4,2,P37,gummy bears
+C75,8,3,P63,cognac
+C75,8,3,P62,gin
+C75,8,3,P61,red wine
+C78,9,2,P04,shower gel
+C78,9,2,P01,detergent
+C81,7,1,P45,hummus
+C98,7,2,P15,jumper
+C98,7,2,P14,women's shoes
+C106,5,2,P22,avocado
+C106,5,2,P28,grapes
+C114,3,1,P60,water
+C117,10,3,P53,peanut butter
+C117,10,3,P57,parmesan
+C117,10,3,P54,almond milk
+C120,9,1,P05,scented candles

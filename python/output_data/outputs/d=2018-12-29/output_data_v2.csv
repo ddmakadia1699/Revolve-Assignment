@@ -1,0 +1,26 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C4,5,2,"['P35', 'P36']","['carrot cake', 'salted caramel dark chocolate']"
+C15,6,1,['P30'],['mango']
+C32,3,2,"['P56', 'P50']","['greek yoghurt', 'camembert']"
+C38,7,1,['P59'],['chicken stock']
+C40,4,2,"['P28', 'P22']","['grapes', 'avocado']"
+C45,10,3,"['P62', 'P64', 'P62']","['gin', 'cigarettes', 'gin']"
+C46,5,3,"['P44', 'P41', 'P55']","['milk', 'steak', 'lentil soup']"
+C47,2,2,"['P27', 'P29']","['potatoes', 'easy peeler']"
+C54,2,1,['P61'],['red wine']
+C58,6,1,['P34'],['raspberries']
+C71,8,2,"['P23', 'P27']","['cherries', 'potatoes']"
+C73,2,3,"['P30', 'P29', 'P26']","['mango', 'easy peeler', 'broccoli']"
+C75,8,2,"['P35', 'P35']","['carrot cake', 'carrot cake']"
+C76,10,2,"['P39', 'P38']","['ice cream', 'kombucha']"
+C77,9,3,"['P41', 'P59', 'P47']","['steak', 'chicken stock', 'whole chicken']"
+C78,9,2,"['P40', 'P39']","['irn bru', 'ice cream']"
+C97,9,1,['P58'],['coconut water']
+C99,9,1,['P52'],['oats']
+C103,7,3,"['P63', 'P64', 'P63']","['cognac', 'cigarettes', 'cognac']"
+C107,3,2,"['P20', 'P13']","[""women's blouse"", ""men's dark green trousers""]"
+C109,6,2,"['P53', 'P56']","['peanut butter', 'greek yoghurt']"
+C112,3,3,"['P50', 'P60', 'P47']","['camembert', 'water', 'whole chicken']"
+C113,5,3,"['P59', 'P50', 'P42']","['chicken stock', 'camembert', 'chicken']"
+C115,1,2,"['P36', 'P39']","['salted caramel dark chocolate', 'ice cream']"
+C131,4,2,"['P52', 'P49']","['oats', 'smoked salmon']"

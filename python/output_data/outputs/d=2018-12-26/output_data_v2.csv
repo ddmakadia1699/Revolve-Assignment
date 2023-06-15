@@ -1,0 +1,28 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,2,"['P44', 'P43']","['milk', 'mince beef']"
+C15,6,3,"['P33', 'P23', 'P33']","['apples', 'cherries', 'apples']"
+C21,5,3,"['P24', 'P27', 'P32']","['scotch bonnets', 'potatoes', 'onions']"
+C22,1,3,"['P31', 'P29', 'P25']","['lemon grass', 'easy peeler', 'peppers']"
+C24,6,2,"['P30', 'P34']","['mango', 'raspberries']"
+C26,1,1,['P53'],['peanut butter']
+C32,3,3,"['P27', 'P27', 'P22']","['potatoes', 'potatoes', 'avocado']"
+C34,3,3,"['P53', 'P52', 'P42']","['peanut butter', 'oats', 'chicken']"
+C38,7,3,"['P06', 'P05', 'P08']","['fabric softener', 'scented candles', 'aluminium foil']"
+C53,4,2,"['P31', 'P29']","['lemon grass', 'easy peeler']"
+C54,2,1,['P42'],['chicken']
+C55,8,3,"['P39', 'P35', 'P36']","['ice cream', 'carrot cake', 'salted caramel dark chocolate']"
+C69,7,2,"['P50', 'P45']","['camembert', 'hummus']"
+C75,8,3,"['P40', 'P38', 'P39']","['irn bru', 'kombucha', 'ice cream']"
+C86,8,3,"['P36', 'P38', 'P36']","['salted caramel dark chocolate', 'kombucha', 'salted caramel dark chocolate']"
+C87,3,2,"['P57', 'P44']","['parmesan', 'milk']"
+C96,10,1,['P38'],['kombucha']
+C99,9,2,"['P53', 'P54']","['peanut butter', 'almond milk']"
+C103,7,2,"['P61', 'P63']","['red wine', 'cognac']"
+C113,5,1,['P44'],['milk']
+C117,10,3,"['P50', 'P52', 'P47']","['camembert', 'oats', 'whole chicken']"
+C122,10,1,['P56'],['greek yoghurt']
+C123,3,3,"['P30', 'P25', 'P24']","['mango', 'peppers', 'scotch bonnets']"
+C126,4,3,"['P58', 'P51', 'P41']","['coconut water', 'pizza', 'steak']"
+C130,7,1,['P53'],['peanut butter']
+C131,4,1,['P46'],['activated charcoal croissant']
+C136,10,2,"['P01', 'P01']","['detergent', 'detergent']"

@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C5,7,2,"['P14', 'P14']","[""women's shoes"", ""women's shoes""]"
+C8,7,1,['P61'],['red wine']
+C13,8,1,['P37'],['gummy bears']
+C16,5,1,['P22'],['avocado']
+C19,6,1,['P22'],['avocado']
+C21,5,1,['P45'],['hummus']
+C29,7,1,['P28'],['grapes']
+C39,2,3,"['P27', 'P33', 'P24']","['potatoes', 'apples', 'scotch bonnets']"
+C54,2,1,['P50'],['camembert']
+C57,2,1,['P08'],['aluminium foil']
+C68,8,2,"['P23', 'P27']","['cherries', 'potatoes']"
+C71,8,2,"['P23', 'P27']","['cherries', 'potatoes']"
+C72,5,2,"['P18', 'P20']","[""men's striped socks"", ""women's blouse""]"
+C82,9,2,"['P30', 'P28']","['mango', 'grapes']"
+C87,3,3,"['P46', 'P57', 'P58']","['activated charcoal croissant', 'parmesan', 'coconut water']"
+C99,9,2,"['P43', 'P43']","['mince beef', 'mince beef']"
+C100,8,3,"['P22', 'P25', 'P29']","['avocado', 'peppers', 'easy peeler']"
+C102,1,2,"['P26', 'P23']","['broccoli', 'cherries']"
+C103,7,2,"['P64', 'P62']","['cigarettes', 'gin']"
+C109,6,1,['P32'],['onions']
+C110,3,3,"['P21', 'P20', 'P19']","[""women's red dress"", ""women's blouse"", ""men's trainers""]"
+C113,5,1,['P48'],['tuna']
+C116,5,3,"['P08', 'P12', 'P12']","['aluminium foil', 'ice pack', 'ice pack']"
+C135,2,1,['P38'],['kombucha']

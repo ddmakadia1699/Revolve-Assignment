@@ -1,0 +1,52 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,1,P29,easy peeler
+C5,7,3,P18,men's striped socks
+C5,7,3,P17,women's black socks
+C5,7,3,P20,women's blouse
+C7,3,3,P37,gummy bears
+C7,3,3,P37,gummy bears
+C7,3,3,P40,irn bru
+C11,4,1,P51,pizza
+C12,8,1,P31,lemon grass
+C22,1,3,P32,onions
+C22,1,3,P34,raspberries
+C22,1,3,P34,raspberries
+C28,3,3,P36,salted caramel dark chocolate
+C28,3,3,P40,irn bru
+C28,3,3,P36,salted caramel dark chocolate
+C32,3,1,P32,onions
+C35,7,1,P43,mince beef
+C37,9,3,P13,men's dark green trousers
+C37,9,3,P19,men's trainers
+C37,9,3,P13,men's dark green trousers
+C50,8,1,P58,coconut water
+C55,8,3,P19,men's trainers
+C55,8,3,P13,men's dark green trousers
+C55,8,3,P13,men's dark green trousers
+C63,2,1,P22,avocado
+C66,10,3,P17,women's black socks
+C66,10,3,P17,women's black socks
+C66,10,3,P19,men's trainers
+C68,8,3,P25,peppers
+C68,8,3,P27,potatoes
+C68,8,3,P30,mango
+C76,10,2,P60,water
+C76,10,2,P41,steak
+C78,9,1,P10,kitchen knife
+C82,9,1,P32,onions
+C108,8,2,P39,ice cream
+C108,8,2,P40,irn bru
+C115,1,2,P35,carrot cake
+C115,1,2,P39,ice cream
+C117,10,1,P57,parmesan
+C119,7,2,P64,cigarettes
+C119,7,2,P61,red wine
+C127,4,2,P31,lemon grass
+C127,4,2,P28,grapes
+C131,4,3,P40,irn bru
+C131,4,3,P40,irn bru
+C131,4,3,P35,carrot cake
+C134,6,2,P48,tuna
+C134,6,2,P53,peanut butter
+C135,2,2,P36,salted caramel dark chocolate
+C135,2,2,P35,carrot cake

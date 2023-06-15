@@ -1,0 +1,54 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,3,P22,avocado
+C6,10,3,P29,easy peeler
+C6,10,3,P25,peppers
+C13,8,2,P36,salted caramel dark chocolate
+C13,8,2,P36,salted caramel dark chocolate
+C22,1,3,P22,avocado
+C22,1,3,P34,raspberries
+C22,1,3,P23,cherries
+C23,10,1,P14,women's shoes
+C25,9,1,P51,pizza
+C26,1,1,P41,steak
+C41,9,1,P39,ice cream
+C45,10,2,P32,onions
+C45,10,2,P24,scotch bonnets
+C47,2,3,P28,grapes
+C47,2,3,P22,avocado
+C47,2,3,P34,raspberries
+C51,3,3,P25,peppers
+C51,3,3,P25,peppers
+C51,3,3,P32,onions
+C53,4,3,P35,carrot cake
+C53,4,3,P39,ice cream
+C53,4,3,P40,irn bru
+C60,10,3,P26,broccoli
+C60,10,3,P31,lemon grass
+C60,10,3,P24,scotch bonnets
+C65,2,1,P02,kitchen roll
+C66,10,1,P14,women's shoes
+C72,5,2,P21,women's red dress
+C72,5,2,P17,women's black socks
+C75,8,3,P40,irn bru
+C75,8,3,P37,gummy bears
+C75,8,3,P40,irn bru
+C78,9,3,P25,peppers
+C78,9,3,P34,raspberries
+C78,9,3,P28,grapes
+C85,8,3,P31,lemon grass
+C85,8,3,P34,raspberries
+C85,8,3,P23,cherries
+C87,3,3,P43,mince beef
+C87,3,3,P56,greek yoghurt
+C87,3,3,P51,pizza
+C97,9,1,P35,carrot cake
+C103,7,1,P61,red wine
+C117,10,1,P39,ice cream
+C118,7,2,P24,scotch bonnets
+C118,7,2,P30,mango
+C124,7,3,P35,carrot cake
+C124,7,3,P40,irn bru
+C124,7,3,P39,ice cream
+C127,4,2,P25,peppers
+C127,4,2,P34,raspberries
+C128,5,1,P30,mango

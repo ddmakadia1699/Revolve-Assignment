@@ -1,0 +1,31 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,"['P31', 'P26', 'P23']","['lemon grass', 'broccoli', 'cherries']"
+C11,4,2,"['P44', 'P58']","['milk', 'coconut water']"
+C13,8,1,['P24'],['scotch bonnets']
+C14,3,3,"['P17', 'P14', 'P21']","[""women's black socks"", ""women's shoes"", ""women's red dress""]"
+C15,6,2,"['P24', 'P33']","['scotch bonnets', 'apples']"
+C20,2,1,['P34'],['raspberries']
+C22,1,2,"['P30', 'P27']","['mango', 'potatoes']"
+C25,9,1,['P63'],['cognac']
+C26,1,1,['P43'],['mince beef']
+C32,3,2,"['P11', 'P06']","['dishwasher tablets', 'fabric softener']"
+C33,5,3,"['P29', 'P27', 'P24']","['easy peeler', 'potatoes', 'scotch bonnets']"
+C41,9,1,['P40'],['irn bru']
+C45,10,2,"['P39', 'P35']","['ice cream', 'carrot cake']"
+C47,2,3,"['P29', 'P29', 'P22']","['easy peeler', 'easy peeler', 'avocado']"
+C57,2,1,['P28'],['grapes']
+C60,10,3,"['P25', 'P30', 'P23']","['peppers', 'mango', 'cherries']"
+C61,4,1,['P39'],['ice cream']
+C62,6,3,"['P53', 'P49', 'P52']","['peanut butter', 'smoked salmon', 'oats']"
+C63,2,2,"['P33', 'P24']","['apples', 'scotch bonnets']"
+C67,4,1,['P37'],['gummy bears']
+C85,8,1,['P22'],['avocado']
+C104,7,1,['P35'],['carrot cake']
+C113,5,1,['P50'],['camembert']
+C115,1,1,['P35'],['carrot cake']
+C122,10,1,['P25'],['peppers']
+C125,1,2,"['P56', 'P45']","['greek yoghurt', 'hummus']"
+C129,7,3,"['P57', 'P56', 'P60']","['parmesan', 'greek yoghurt', 'water']"
+C130,7,3,"['P43', 'P55', 'P41']","['mince beef', 'lentil soup', 'steak']"
+C131,4,3,"['P36', 'P35', 'P36']","['salted caramel dark chocolate', 'carrot cake', 'salted caramel dark chocolate']"
+C136,10,1,['P14'],"[""women's shoes""]"

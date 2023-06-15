@@ -1,0 +1,25 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,2,"['P27', 'P32']","['potatoes', 'onions']"
+C7,3,2,"['P37', 'P35']","['gummy bears', 'carrot cake']"
+C14,3,2,"['P21', 'P18']","[""women's red dress"", ""men's striped socks""]"
+C24,6,1,['P25'],['peppers']
+C26,1,3,"['P41', 'P45', 'P48']","['steak', 'hummus', 'tuna']"
+C32,3,1,['P60'],['water']
+C35,7,2,"['P28', 'P33']","['grapes', 'apples']"
+C38,7,3,"['P22', 'P33', 'P25']","['avocado', 'apples', 'peppers']"
+C48,4,3,"['P37', 'P38', 'P39']","['gummy bears', 'kombucha', 'ice cream']"
+C51,3,2,"['P57', 'P51']","['parmesan', 'pizza']"
+C57,2,1,['P40'],['irn bru']
+C60,10,1,['P24'],['scotch bonnets']
+C65,2,2,"['P03', 'P04']","['bin liners', 'shower gel']"
+C68,8,3,"['P38', 'P39', 'P40']","['kombucha', 'ice cream', 'irn bru']"
+C70,9,3,"['P53', 'P42', 'P42']","['peanut butter', 'chicken', 'chicken']"
+C85,8,3,"['P51', 'P46', 'P53']","['pizza', 'activated charcoal croissant', 'peanut butter']"
+C87,3,1,['P58'],['coconut water']
+C88,1,1,['P46'],['activated charcoal croissant']
+C111,1,2,"['P64', 'P64']","['cigarettes', 'cigarettes']"
+C113,5,3,"['P45', 'P41', 'P58']","['hummus', 'steak', 'coconut water']"
+C116,5,1,['P27'],['potatoes']
+C125,1,3,"['P46', 'P43', 'P49']","['activated charcoal croissant', 'mince beef', 'smoked salmon']"
+C126,4,1,['P48'],['tuna']
+C135,2,3,"['P39', 'P40', 'P37']","['ice cream', 'irn bru', 'gummy bears']"

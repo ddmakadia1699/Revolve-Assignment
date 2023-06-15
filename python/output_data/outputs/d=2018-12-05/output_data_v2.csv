@@ -1,0 +1,18 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C13,8,2,"['P27', 'P28']","['potatoes', 'grapes']"
+C20,2,2,"['P53', 'P44']","['peanut butter', 'milk']"
+C27,10,1,['P18'],"[""men's striped socks""]"
+C30,4,3,"['P39', 'P35', 'P37']","['ice cream', 'carrot cake', 'gummy bears']"
+C51,3,3,"['P33', 'P24', 'P24']","['apples', 'scotch bonnets', 'scotch bonnets']"
+C54,2,2,"['P39', 'P38']","['ice cream', 'kombucha']"
+C59,6,1,['P46'],['activated charcoal croissant']
+C60,10,1,['P27'],['potatoes']
+C67,4,2,"['P38', 'P37']","['kombucha', 'gummy bears']"
+C75,8,3,"['P63', 'P62', 'P61']","['cognac', 'gin', 'red wine']"
+C78,9,2,"['P04', 'P01']","['shower gel', 'detergent']"
+C81,7,1,['P45'],['hummus']
+C98,7,2,"['P15', 'P14']","['jumper', ""women's shoes""]"
+C106,5,2,"['P22', 'P28']","['avocado', 'grapes']"
+C114,3,1,['P60'],['water']
+C117,10,3,"['P53', 'P57', 'P54']","['peanut butter', 'parmesan', 'almond milk']"
+C120,9,1,['P05'],['scented candles']

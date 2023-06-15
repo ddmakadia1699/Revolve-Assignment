@@ -1,0 +1,55 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C7,3,3,P52,oats
+C7,3,3,P59,chicken stock
+C7,3,3,P42,chicken
+C11,4,1,P33,apples
+C13,8,2,P29,easy peeler
+C13,8,2,P27,potatoes
+C25,9,3,P62,gin
+C25,9,3,P63,cognac
+C25,9,3,P61,red wine
+C26,1,3,P57,parmesan
+C26,1,3,P46,activated charcoal croissant
+C26,1,3,P47,whole chicken
+C30,4,2,P03,bin liners
+C30,4,2,P05,scented candles
+C31,9,1,P22,avocado
+C35,7,1,P57,parmesan
+C47,2,2,P25,peppers
+C47,2,2,P22,avocado
+C51,3,3,P42,chicken
+C51,3,3,P41,steak
+C51,3,3,P54,almond milk
+C54,2,1,P57,parmesan
+C58,6,1,P22,avocado
+C67,4,2,P38,kombucha
+C67,4,2,P35,carrot cake
+C76,10,2,P44,milk
+C76,10,2,P57,parmesan
+C80,9,1,P10,kitchen knife
+C86,8,1,P38,kombucha
+C90,3,2,P09,toilet paper
+C90,3,2,P11,dishwasher tablets
+C96,10,1,P33,apples
+C98,7,1,P31,lemon grass
+C106,5,2,P59,chicken stock
+C106,5,2,P43,mince beef
+C112,3,3,P49,smoked salmon
+C112,3,3,P41,steak
+C112,3,3,P41,steak
+C113,5,2,P55,lentil soup
+C113,5,2,P41,steak
+C116,5,1,P28,grapes
+C125,1,1,P07,cling film
+C126,4,3,P54,almond milk
+C126,4,3,P58,coconut water
+C126,4,3,P58,coconut water
+C127,4,1,P31,lemon grass
+C130,7,3,P42,chicken
+C130,7,3,P52,oats
+C130,7,3,P48,tuna
+C131,4,3,P37,gummy bears
+C131,4,3,P35,carrot cake
+C131,4,3,P36,salted caramel dark chocolate
+C134,6,2,P09,toilet paper
+C134,6,2,P06,fabric softener

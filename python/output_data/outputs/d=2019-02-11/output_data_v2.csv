@@ -1,0 +1,24 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,2,"['P24', 'P29']","['scotch bonnets', 'easy peeler']"
+C15,6,3,"['P29', 'P29', 'P31']","['easy peeler', 'easy peeler', 'lemon grass']"
+C16,5,1,['P64'],['cigarettes']
+C17,2,3,"['P42', 'P50', 'P57']","['chicken', 'camembert', 'parmesan']"
+C19,6,3,"['P25', 'P31', 'P32']","['peppers', 'lemon grass', 'onions']"
+C21,5,3,"['P41', 'P57', 'P60']","['steak', 'parmesan', 'water']"
+C23,10,1,['P57'],['parmesan']
+C25,9,2,"['P63', 'P61']","['cognac', 'red wine']"
+C29,7,2,"['P34', 'P33']","['raspberries', 'apples']"
+C38,7,2,"['P33', 'P31']","['apples', 'lemon grass']"
+C40,4,2,"['P26', 'P26']","['broccoli', 'broccoli']"
+C46,5,1,['P54'],['almond milk']
+C48,4,2,"['P31', 'P26']","['lemon grass', 'broccoli']"
+C49,7,2,"['P36', 'P38']","['salted caramel dark chocolate', 'kombucha']"
+C55,8,3,"['P55', 'P54', 'P44']","['lentil soup', 'almond milk', 'milk']"
+C60,10,1,['P28'],['grapes']
+C68,8,3,"['P34', 'P28', 'P22']","['raspberries', 'grapes', 'avocado']"
+C72,5,2,"['P22', 'P24']","['avocado', 'scotch bonnets']"
+C78,9,2,"['P37', 'P35']","['gummy bears', 'carrot cake']"
+C90,3,3,"['P56', 'P44', 'P46']","['greek yoghurt', 'milk', 'activated charcoal croissant']"
+C108,8,3,"['P38', 'P37', 'P38']","['kombucha', 'gummy bears', 'kombucha']"
+C119,7,2,"['P64', 'P64']","['cigarettes', 'cigarettes']"
+C136,10,2,"['P10', 'P04']","['kitchen knife', 'shower gel']"

@@ -1,0 +1,21 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,3,"['P28', 'P27', 'P24']","['grapes', 'potatoes', 'scotch bonnets']"
+C22,1,2,"['P47', 'P41']","['whole chicken', 'steak']"
+C38,7,2,"['P33', 'P31']","['apples', 'lemon grass']"
+C46,5,1,['P03'],['bin liners']
+C47,2,1,['P26'],['broccoli']
+C49,7,3,"['P37', 'P36', 'P37']","['gummy bears', 'salted caramel dark chocolate', 'gummy bears']"
+C51,3,1,['P27'],['potatoes']
+C52,1,3,"['P62', 'P61', 'P62']","['gin', 'red wine', 'gin']"
+C65,2,1,['P02'],['kitchen roll']
+C68,8,2,"['P27', 'P34']","['potatoes', 'raspberries']"
+C71,8,1,['P35'],['carrot cake']
+C81,7,3,"['P42', 'P45', 'P43']","['chicken', 'hummus', 'mince beef']"
+C82,9,1,['P28'],['grapes']
+C97,9,1,['P61'],['red wine']
+C98,7,3,"['P34', 'P33', 'P31']","['raspberries', 'apples', 'lemon grass']"
+C116,5,3,"['P05', 'P05', 'P08']","['scented candles', 'scented candles', 'aluminium foil']"
+C117,10,1,['P37'],['gummy bears']
+C125,1,1,['P54'],['almond milk']
+C129,7,2,"['P54', 'P55']","['almond milk', 'lentil soup']"
+C131,4,3,"['P35', 'P35', 'P35']","['carrot cake', 'carrot cake', 'carrot cake']"

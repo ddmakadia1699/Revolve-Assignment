@@ -1,0 +1,49 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,1,P28,grapes
+C20,2,3,P50,camembert
+C20,2,3,P55,lentil soup
+C20,2,3,P47,whole chicken
+C24,6,3,P03,bin liners
+C24,6,3,P07,cling film
+C24,6,3,P07,cling film
+C26,1,3,P59,chicken stock
+C26,1,3,P47,whole chicken
+C26,1,3,P49,smoked salmon
+C27,10,2,P17,women's black socks
+C27,10,2,P16,men's belt
+C31,9,1,P42,chicken
+C34,3,2,P26,broccoli
+C34,3,2,P33,apples
+C48,4,1,P32,onions
+C49,7,3,P37,gummy bears
+C49,7,3,P38,kombucha
+C49,7,3,P37,gummy bears
+C51,3,3,P30,mango
+C51,3,3,P34,raspberries
+C51,3,3,P30,mango
+C53,4,1,P37,gummy bears
+C60,10,1,P63,cognac
+C62,6,2,P45,hummus
+C62,6,2,P49,smoked salmon
+C66,10,1,P17,women's black socks
+C70,9,2,P42,chicken
+C70,9,2,P57,parmesan
+C74,5,3,P11,dishwasher tablets
+C74,5,3,P09,toilet paper
+C74,5,3,P09,toilet paper
+C76,10,1,P64,cigarettes
+C82,9,1,P40,irn bru
+C88,1,2,P55,lentil soup
+C88,1,2,P53,peanut butter
+C90,3,2,P03,bin liners
+C90,3,2,P08,aluminium foil
+C94,10,3,P35,carrot cake
+C94,10,3,P39,ice cream
+C94,10,3,P40,irn bru
+C96,10,1,P25,peppers
+C100,8,1,P23,cherries
+C110,3,2,P43,mince beef
+C110,3,2,P42,chicken
+C125,1,1,P53,peanut butter
+C134,6,2,P23,cherries
+C134,6,2,P34,raspberries

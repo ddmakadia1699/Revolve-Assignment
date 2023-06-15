@@ -1,0 +1,27 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,3,"['P22', 'P29', 'P25']","['avocado', 'easy peeler', 'peppers']"
+C13,8,2,"['P36', 'P36']","['salted caramel dark chocolate', 'salted caramel dark chocolate']"
+C22,1,3,"['P22', 'P34', 'P23']","['avocado', 'raspberries', 'cherries']"
+C23,10,1,['P14'],"[""women's shoes""]"
+C25,9,1,['P51'],['pizza']
+C26,1,1,['P41'],['steak']
+C41,9,1,['P39'],['ice cream']
+C45,10,2,"['P32', 'P24']","['onions', 'scotch bonnets']"
+C47,2,3,"['P28', 'P22', 'P34']","['grapes', 'avocado', 'raspberries']"
+C51,3,3,"['P25', 'P25', 'P32']","['peppers', 'peppers', 'onions']"
+C53,4,3,"['P35', 'P39', 'P40']","['carrot cake', 'ice cream', 'irn bru']"
+C60,10,3,"['P26', 'P31', 'P24']","['broccoli', 'lemon grass', 'scotch bonnets']"
+C65,2,1,['P02'],['kitchen roll']
+C66,10,1,['P14'],"[""women's shoes""]"
+C72,5,2,"['P21', 'P17']","[""women's red dress"", ""women's black socks""]"
+C75,8,3,"['P40', 'P37', 'P40']","['irn bru', 'gummy bears', 'irn bru']"
+C78,9,3,"['P25', 'P34', 'P28']","['peppers', 'raspberries', 'grapes']"
+C85,8,3,"['P31', 'P34', 'P23']","['lemon grass', 'raspberries', 'cherries']"
+C87,3,3,"['P43', 'P56', 'P51']","['mince beef', 'greek yoghurt', 'pizza']"
+C97,9,1,['P35'],['carrot cake']
+C103,7,1,['P61'],['red wine']
+C117,10,1,['P39'],['ice cream']
+C118,7,2,"['P24', 'P30']","['scotch bonnets', 'mango']"
+C124,7,3,"['P35', 'P40', 'P39']","['carrot cake', 'irn bru', 'ice cream']"
+C127,4,2,"['P25', 'P34']","['peppers', 'raspberries']"
+C128,5,1,['P30'],['mango']

@@ -1,0 +1,40 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C2,4,2,P35,carrot cake
+C2,4,2,P38,kombucha
+C12,8,3,P26,broccoli
+C12,8,3,P26,broccoli
+C12,8,3,P28,grapes
+C25,9,3,P61,red wine
+C25,9,3,P62,gin
+C25,9,3,P63,cognac
+C26,1,2,P53,peanut butter
+C26,1,2,P42,chicken
+C32,3,1,P48,tuna
+C47,2,3,P31,lemon grass
+C47,2,3,P22,avocado
+C47,2,3,P33,apples
+C57,2,3,P07,cling film
+C57,2,3,P05,scented candles
+C57,2,3,P03,bin liners
+C68,8,3,P54,almond milk
+C68,8,3,P59,chicken stock
+C68,8,3,P42,chicken
+C72,5,3,P17,women's black socks
+C72,5,3,P14,women's shoes
+C72,5,3,P15,jumper
+C76,10,2,P40,irn bru
+C76,10,2,P37,gummy bears
+C119,7,2,P61,red wine
+C119,7,2,P64,cigarettes
+C122,10,3,P24,scotch bonnets
+C122,10,3,P31,lemon grass
+C122,10,3,P27,potatoes
+C126,4,1,P43,mince beef
+C131,4,3,P52,oats
+C131,4,3,P43,mince beef
+C131,4,3,P53,peanut butter
+C136,10,3,P04,shower gel
+C136,10,3,P12,ice pack
+C136,10,3,P08,aluminium foil
+C137,9,2,P64,cigarettes
+C137,9,2,P64,cigarettes

@@ -1,0 +1,21 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C3,8,1,['P11'],['dishwasher tablets']
+C7,3,2,"['P41', 'P52']","['steak', 'oats']"
+C23,10,1,['P15'],['jumper']
+C27,10,2,"['P64', 'P63']","['cigarettes', 'cognac']"
+C31,9,2,"['P32', 'P29']","['onions', 'easy peeler']"
+C36,5,2,"['P22', 'P29']","['avocado', 'easy peeler']"
+C45,10,2,"['P61', 'P64']","['red wine', 'cigarettes']"
+C46,5,2,"['P09', 'P01']","['toilet paper', 'detergent']"
+C47,2,1,['P32'],['onions']
+C60,10,1,['P32'],['onions']
+C64,10,2,"['P38', 'P39']","['kombucha', 'ice cream']"
+C65,2,3,"['P10', 'P07', 'P04']","['kitchen knife', 'cling film', 'shower gel']"
+C68,8,2,"['P45', 'P44']","['hummus', 'milk']"
+C74,5,2,"['P08', 'P06']","['aluminium foil', 'fabric softener']"
+C93,5,2,"['P58', 'P47']","['coconut water', 'whole chicken']"
+C98,7,2,"['P32', 'P28']","['onions', 'grapes']"
+C116,5,1,['P04'],['shower gel']
+C122,10,3,"['P23', 'P32', 'P28']","['cherries', 'onions', 'grapes']"
+C133,3,1,['P59'],['chicken stock']
+C137,9,1,['P62'],['gin']

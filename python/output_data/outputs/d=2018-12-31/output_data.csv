@@ -1,0 +1,52 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C1,7,3,P29,easy peeler
+C1,7,3,P29,easy peeler
+C1,7,3,P23,cherries
+C3,8,3,P06,fabric softener
+C3,8,3,P07,cling film
+C3,8,3,P03,bin liners
+C6,10,1,P27,potatoes
+C21,5,1,P43,mince beef
+C22,1,2,P30,mango
+C22,1,2,P22,avocado
+C23,10,1,P21,women's red dress
+C35,7,3,P29,easy peeler
+C35,7,3,P32,onions
+C35,7,3,P26,broccoli
+C45,10,1,P63,cognac
+C51,3,2,P33,apples
+C51,3,2,P28,grapes
+C56,4,1,P54,almond milk
+C59,6,2,P41,steak
+C59,6,2,P46,activated charcoal croissant
+C67,4,3,P39,ice cream
+C67,4,3,P40,irn bru
+C67,4,3,P35,carrot cake
+C69,7,2,P54,almond milk
+C69,7,2,P43,mince beef
+C76,10,1,P61,red wine
+C81,7,3,P53,peanut butter
+C81,7,3,P50,camembert
+C81,7,3,P59,chicken stock
+C83,8,3,P32,onions
+C83,8,3,P24,scotch bonnets
+C83,8,3,P33,apples
+C87,3,2,P47,whole chicken
+C87,3,2,P44,milk
+C100,8,2,P22,avocado
+C100,8,2,P26,broccoli
+C104,7,3,P36,salted caramel dark chocolate
+C104,7,3,P35,carrot cake
+C104,7,3,P37,gummy bears
+C110,3,3,P59,chicken stock
+C110,3,3,P54,almond milk
+C110,3,3,P58,coconut water
+C116,5,1,P24,scotch bonnets
+C123,3,3,P31,lemon grass
+C123,3,3,P32,onions
+C123,3,3,P28,grapes
+C126,4,3,P40,irn bru
+C126,4,3,P37,gummy bears
+C126,4,3,P35,carrot cake
+C131,4,2,P41,steak
+C131,4,2,P43,mince beef

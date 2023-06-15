@@ -1,0 +1,39 @@
+customer_id,loyalty_score,purchase_count,product_id,product_category
+C6,10,1,P24,scotch bonnets
+C12,8,2,P30,mango
+C12,8,2,P25,peppers
+C17,2,2,P34,raspberries
+C17,2,2,P28,grapes
+C19,6,3,P02,kitchen roll
+C19,6,3,P12,ice pack
+C19,6,3,P04,shower gel
+C24,6,2,P02,kitchen roll
+C24,6,2,P11,dishwasher tablets
+C31,9,1,P51,pizza
+C32,3,1,P49,smoked salmon
+C35,7,2,P47,whole chicken
+C35,7,2,P52,oats
+C38,7,1,P48,tuna
+C44,9,2,P37,gummy bears
+C44,9,2,P38,kombucha
+C65,2,2,P02,kitchen roll
+C65,2,2,P09,toilet paper
+C70,9,1,P42,chicken
+C74,5,3,P08,aluminium foil
+C74,5,3,P02,kitchen roll
+C74,5,3,P03,bin liners
+C75,8,1,P07,cling film
+C78,9,1,P37,gummy bears
+C85,8,2,P42,chicken
+C85,8,2,P44,milk
+C88,1,1,P44,milk
+C93,5,1,P48,tuna
+C95,7,2,P48,tuna
+C95,7,2,P50,camembert
+C100,8,3,P24,scotch bonnets
+C100,8,3,P26,broccoli
+C100,8,3,P23,cherries
+C109,6,1,P36,salted caramel dark chocolate
+C126,4,1,P31,lemon grass
+C136,10,2,P19,men's trainers
+C136,10,2,P14,women's shoes
