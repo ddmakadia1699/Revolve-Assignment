@@ -1,0 +1,23 @@
+count,manufacturer,,,,,,,,,,,"SELECT COUNT(1) , manufacturer"
+1103,BOEING,,,,,,,,,,,"FROM planes a, flights b "
+816,EMBRAER,,,,,,,,,,,where a.tailnum = b.tailnum
+696,AIRBUS,,,,,,,,,,,GROUP BY manufacturer
+516,AIRBUS INDUSTRIE,,,,,,,,,,,ORDER BY 1 DESC;
+288,BOMBARDIER INC,,,,,,,,,,,LIMIT 1;
+121,MCDONNELL DOUGLAS AIRCRAFT CO,,,,,,,,,,,
+56,MCDONNELL DOUGLAS,,,,,,,,,,,
+17,CESSNA,,,,,,,,,,,
+17,CANADAIR,,,,,,,,,,,
+12,MCDONNELL DOUGLAS CORPORATION,,,,,,,,,,,
+12,GULFSTREAM AEROSPACE,,,,,,,,,,,
+8,CIRRUS DESIGN CORP,,,,,,,,,,,
+4,BARKER JACK L,,,,,,,,,,,
+3,PIPER,,,,,,,,,,,
+3,ROBINSON HELICOPTER CO,,,,,,,,,,,
+3,FRIEDEMANN JON,,,,,,,,,,,
+2,CANADAIR LTD,,,,,,,,,,,
+1,PAIR MIKE E,,,,,,,,,,,
+1,MARZ BARRY,,,,,,,,,,,
+1,LAMBERT RICHARD,,,,,,,,,,,
+1,HURLEY JAMES LARRY,,,,,,,,,,,
+1,BEECH,,,,,,,,,,,
