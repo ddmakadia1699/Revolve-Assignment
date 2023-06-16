@@ -1,0 +1,13 @@
+AIRPORT,,,,"SELECT ""AIRPORT"""
+Newark Liberty International Airport,,,,FROM airports
+John F. Kennedy International Airport (New York International Airport),,,,"WHERE ""IATA_CODE"" IN ("
+LaGuardia Airport (Marine Air Terminal),,,,    SELECT origin
+,,,,    FROM (
+,,,,"        SELECT origin, COUNT(1)"
+,,,,        FROM flights
+,,,,"        WHERE EXTRACT(DOW FROM DATE(year || '-' || LPAD(month::text, 2, '0') || '-' || LPAD(day::text, 2, '0'))) IN (0, 6)"
+,,,,        GROUP BY origin
+,,,,        ORDER BY 2 DESC
+,,,,        LIMIT 1
+,,,,    ) AS subquery
+,,,,);
